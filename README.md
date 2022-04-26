@@ -1,1 +1,2 @@
 # Methods_of_Internet_Data_Collection_and_Processing
+This repository for homework on the "Methods_of_Internet_Data_Collection_and_Processing" course at Geekbrains.
