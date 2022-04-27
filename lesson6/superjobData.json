@@ -1,0 +1,882 @@
+[
+  {
+    "_id": {
+      "$oid": "61fdb24dcafcddbe6dec53b5"
+    },
+    "position": "Web-разработчик (Python)",
+    "url": "/vakansii/web-razrabotchik-41150182.html",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fdb24dcafcddbe6dec53b8"
+    },
+    "position": "Backend Developer / Python",
+    "url": "/vakansii/backend-developer-41250613.html",
+    "salary_min": 320000,
+    "salary_max": 350000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fdb24dcafcddbe6dec53bb"
+    },
+    "position": "Senior Python Backend Developer / Web-разработчик",
+    "url": "/vakansii/senior-python-backend-developer-40866744.html",
+    "salary_min": 230000,
+    "salary_max": "",
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fdb24dcafcddbe6dec53be"
+    },
+    "position": "Senior Fullstack разработчик Node.js, Python, GO, React",
+    "url": "/vakansii/senior-fullstack-razrabotchik-node-41235186.html",
+    "salary_min": 200000,
+    "salary_max": "",
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fdb24dcafcddbe6dec53c1"
+    },
+    "position": "Программист Python",
+    "url": "/vakansii/programmist-python-41314523.html",
+    "salary_min": 50000,
+    "salary_max": 60000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fdb24dcafcddbe6dec53c4"
+    },
+    "position": "Ведущий разработчик Python",
+    "url": "/vakansii/veduschij-razrabotchik-python-40976191.html",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fdb24dcafcddbe6dec53c7"
+    },
+    "position": "Разработчик JavaScript / Java / C# / Python",
+    "url": "/vakansii/razrabotchik-javascript-41194406.html",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fdb24dcafcddbe6dec53ca"
+    },
+    "position": "Python developer",
+    "url": "/vakansii/python-developer-41522084.html",
+    "salary_min": 330000,
+    "salary_max": 370000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fdb24dcafcddbe6dec53cd"
+    },
+    "position": "Python developer middle / Senior",
+    "url": "/vakansii/python-developer-middle-41521957.html",
+    "salary_min": 330000,
+    "salary_max": 370000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fdb24dcafcddbe6dec53d0"
+    },
+    "position": "Middle Python-разработчика",
+    "url": "/vakansii/middle-python-razrabotchika-40975701.html",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fdb24dcafcddbe6dec53d3"
+    },
+    "position": "Специалист службы поддержки с техническими знаниями (Браузер)",
+    "url": "/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39820624.html",
+    "salary_min": 15000,
+    "salary_max": "",
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fdb24dcafcddbe6dec53d6"
+    },
+    "position": "IT-специалист (fullstack-разработчик)",
+    "url": "/vakansii/it-specialist-41274614.html",
+    "salary_min": 39000,
+    "salary_max": "",
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fdb24dcafcddbe6dec53d9"
+    },
+    "position": "Старший сетевой инженер (ip-телефония)",
+    "url": "/vakansii/starshij-setevoj-inzhener-41177510.html",
+    "salary_min": 100000,
+    "salary_max": 125000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fdb24dcafcddbe6dec53dc"
+    },
+    "position": "Ведущий инженер СХД",
+    "url": "/vakansii/veduschij-inzhener-shd-41271284.html",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fdb24dcafcddbe6dec53df"
+    },
+    "position": "Руководитель IT-подразделения",
+    "url": "/vakansii/rukovoditel-it-podrazdeleniya-41271302.html",
+    "salary_min": 200000,
+    "salary_max": "",
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fdb24dcafcddbe6dec53e2"
+    },
+    "position": "Администратор баз данных",
+    "url": "/vakansii/administrator-baz-dannyh-39034502.html",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fdb24dcafcddbe6dec53e5"
+    },
+    "position": "Помощник DevOps Engineer",
+    "url": "/vakansii/pomoschnik-devops-engineer-41578643.html",
+    "salary_min": 55000,
+    "salary_max": 115000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fdb24dcafcddbe6dec53e8"
+    },
+    "position": "Аналитик",
+    "url": "/vakansii/analitik-40530706.html",
+    "salary_min": 60000,
+    "salary_max": "",
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fdb24dcafcddbe6dec53eb"
+    },
+    "position": "Аналитик данных",
+    "url": "/vakansii/analitik-dannyh-40101261.html",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fdb24dcafcddbe6dec53ee"
+    },
+    "position": "Преподаватель по программированию для детей",
+    "url": "/vakansii/prepodavatel-po-programmirovaniyu-dlya-detej-41268549.html",
+    "salary_min": 30000,
+    "salary_max": "",
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fdb24ecafcddbe6dec53f1"
+    },
+    "position": "Специалист службы поддержки (с техническими знаниями)",
+    "url": "/vakansii/specialist-sluzhby-podderzhki-37984527.html",
+    "salary_min": 15000,
+    "salary_max": "",
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fdb24ecafcddbe6dec53f4"
+    },
+    "position": "Директор IT-отдела",
+    "url": "/vakansii/direktor-it-otdela-41271296.html",
+    "salary_min": 200000,
+    "salary_max": "",
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fdb24ecafcddbe6dec53f7"
+    },
+    "position": "Аналитик качества данных (Data steward)",
+    "url": "/vakansii/analitik-kachestva-dannyh-41329960.html",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fdb24ecafcddbe6dec53fa"
+    },
+    "position": "Data Scientist Middle",
+    "url": "/vakansii/data-scientist-middle-41167313.html",
+    "salary_min": 150000,
+    "salary_max": "",
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fdb24ecafcddbe6dec53fd"
+    },
+    "position": "BI-разработчик / Бизнес-аналитик",
+    "url": "/vakansii/bi-razrabotchik-41476581.html",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fdb24ecafcddbe6dec5400"
+    },
+    "position": "QA Automation Engineer",
+    "url": "/vakansii/qa-automation-engineer-40874246.html",
+    "salary_min": "",
+    "salary_max": 140000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fdb24ecafcddbe6dec5403"
+    },
+    "position": "Руководитель отдела аналитики",
+    "url": "/vakansii/rukovoditel-otdela-analitiki-33473129.html",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fdb24ecafcddbe6dec5406"
+    },
+    "position": "Робопсихолог",
+    "url": "/vakansii/robopsiholog-41218549.html",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fdb24ecafcddbe6dec5409"
+    },
+    "position": "Главный программист MES-систем",
+    "url": "/vakansii/glavnyj-programmist-mes-sistem-41397702.html",
+    "salary_min": 200000,
+    "salary_max": 220000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fdb24ecafcddbe6dec540c"
+    },
+    "position": "Ведущий инженер-электроник, схемотехник, программист микроконтроллеров (ПЛИС)",
+    "url": "/vakansii/veduschij-inzhener-elektronik-41391718.html",
+    "salary_min": 160000,
+    "salary_max": 230000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fdb24ecafcddbe6dec540f"
+    },
+    "position": "Rust Developer",
+    "url": "/vakansii/rust-developer-41563874.html",
+    "salary_min": 170000,
+    "salary_max": "",
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fdb24ecafcddbe6dec5412"
+    },
+    "position": "Преподаватель программирования (удаленно)",
+    "url": "/vakansii/prepodavatel-programmirovaniya-41558038.html",
+    "salary_min": "",
+    "salary_max": 80000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fdb24ecafcddbe6dec5415"
+    },
+    "position": "Backend Engineer / Data Engineer / Vision ML Engineer",
+    "url": "/vakansii/backend-engineer-41396704.html",
+    "salary_min": 150000,
+    "salary_max": 175000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fdb24ecafcddbe6dec541a"
+    },
+    "position": "Бизнес-аналитик",
+    "url": "/vakansii/biznes-analitik-41063878.html",
+    "salary_min": 70000,
+    "salary_max": 100000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fdb24ecafcddbe6dec541d"
+    },
+    "position": "Хемоинформатик",
+    "url": "/vakansii/hemoinformatik-41550417.html",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fdb24ecafcddbe6dec5420"
+    },
+    "position": "Программист",
+    "url": "/vakansii/programmist-36989456.html",
+    "salary_min": 60000,
+    "salary_max": "",
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fdb24ecafcddbe6dec5423"
+    },
+    "position": "Системный администратор",
+    "url": "/vakansii/sistemnyj-administrator-38671598.html",
+    "salary_min": 80000,
+    "salary_max": "",
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fdb24ecafcddbe6dec5426"
+    },
+    "position": "Тестировщик ПО",
+    "url": "/vakansii/testirovschik-po-41392249.html",
+    "salary_min": 90000,
+    "salary_max": 105000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fdb24ecafcddbe6dec5429"
+    },
+    "position": "Педагог дополнительного образования (IT)",
+    "url": "/vakansii/pedagog-dopolnitelnogo-obrazovaniya-31825314.html",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fdb24ecafcddbe6dec542c"
+    },
+    "position": "Аналитик по финансам",
+    "url": "/vakansii/analitik-po-finansam-41145268.html",
+    "salary_min": 100000,
+    "salary_max": "",
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fdb250cafcddbe6dec542f"
+    },
+    "position": "Инженер IT-отдела",
+    "url": "/vakansii/inzhener-it-otdela-41569858.html",
+    "salary_min": 150000,
+    "salary_max": "",
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fdb250cafcddbe6dec5432"
+    },
+    "position": "Инженер Linux (отдел разработки ОС)",
+    "url": "/vakansii/inzhener-linux-40261495.html",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fdb250cafcddbe6dec5435"
+    },
+    "position": "Специалист технической поддержки",
+    "url": "/vakansii/specialist-tehnicheskoj-podderzhki-41384558.html",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fdb250cafcddbe6dec5438"
+    },
+    "position": "QA Automation Engineer",
+    "url": "/vakansii/qa-automation-engineer-41064265.html",
+    "salary_min": 100000,
+    "salary_max": "",
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fdb250cafcddbe6dec543b"
+    },
+    "position": "Quantitative Researcher",
+    "url": "/vakansii/quantitative-researcher-40919945.html",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fdb250cafcddbe6dec543e"
+    },
+    "position": "Программист C# (middle)",
+    "url": "/vakansii/programmist-c-41526763.html",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fdb250cafcddbe6dec5441"
+    },
+    "position": "Старший научный сотрудник",
+    "url": "/vakansii/starshij-nauchnyj-sotrudnik-41239513.html",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fdb250cafcddbe6dec5444"
+    },
+    "position": "Стажер нагрузочного тестирования",
+    "url": "/vakansii/stazher-nagruzochnogo-testirovaniya-41233601.html",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fdb250cafcddbe6dec5447"
+    },
+    "position": "Ведущий математик-программист",
+    "url": "/vakansii/veduschij-matematik-programmist-40105999.html",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fdb250cafcddbe6dec544a"
+    },
+    "position": "Ведущий программист",
+    "url": "/vakansii/veduschij-programmist-41009806.html",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fdb250cafcddbe6dec544d"
+    },
+    "position": "Tech lead",
+    "url": "/vakansii/tech-lead-41232092.html",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fdb250cafcddbe6dec5450"
+    },
+    "position": "Ведущий инженер",
+    "url": "/vakansii/veduschij-inzhener-36502434.html",
+    "salary_min": 150000,
+    "salary_max": 180000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fdb250cafcddbe6dec5453"
+    },
+    "position": "Программист микроконтроллеров С++",
+    "url": "/vakansii/programmist-mikrokontrollerov-s-41506433.html",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fdb250cafcddbe6dec5456"
+    },
+    "position": "Учитель информатики и робототехники",
+    "url": "/vakansii/uchitel-informatiki-i-robototehniki-39720503.html",
+    "salary_min": 80000,
+    "salary_max": "",
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fdb250cafcddbe6dec5459"
+    },
+    "position": "Эксперт (компьютерное зрение)",
+    "url": "/vakansii/ekspert-41493493.html",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fdb250cafcddbe6dec545c"
+    },
+    "position": "Web-разработчик",
+    "url": "/vakansii/web-razrabotchik-35121873.html",
+    "salary_min": 130000,
+    "salary_max": "",
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fdb250cafcddbe6dec545f"
+    },
+    "position": "Data Engineer",
+    "url": "/vakansii/data-engineer-40987196.html",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fdb250cafcddbe6dec5462"
+    },
+    "position": "Архитектор",
+    "url": "/vakansii/arhitektor-41485305.html",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fdb250cafcddbe6dec5465"
+    },
+    "position": "Программист 1С",
+    "url": "/vakansii/programmist-1s-40721992.html",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fdb250cafcddbe6dec5468"
+    },
+    "position": "Специалист по работе с базой данных",
+    "url": "/vakansii/specialist-po-rabote-s-bazoj-dannyh-31061879.html",
+    "salary_min": 35000,
+    "salary_max": "",
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fdb251cafcddbe6dec546b"
+    },
+    "position": "Системный администратор",
+    "url": "/vakansii/sistemnyj-administrator-41568986.html",
+    "salary_min": 150000,
+    "salary_max": "",
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fdb251cafcddbe6dec546e"
+    },
+    "position": "Программист middle",
+    "url": "/vakansii/programmist-middle-41010476.html",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fdb251cafcddbe6dec5471"
+    },
+    "position": "Support Engineer",
+    "url": "/vakansii/support-engineer-40847857.html",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fdb251cafcddbe6dec5474"
+    },
+    "position": "Ведущий программист микроконтроллеров С++",
+    "url": "/vakansii/veduschij-programmist-mikrokontrollerov-s-41506440.html",
+    "salary_min": 130000,
+    "salary_max": "",
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fdb251cafcddbe6dec5477"
+    },
+    "position": "Web-программист",
+    "url": "/vakansii/web-programmist-34775459.html",
+    "salary_min": 60000,
+    "salary_max": "",
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fdb251cafcddbe6dec547a"
+    },
+    "position": "Middle Frontend developer",
+    "url": "/vakansii/middle-frontend-developer-41209547.html",
+    "salary_min": "",
+    "salary_max": 180000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fdb251cafcddbe6dec547d"
+    },
+    "position": "Ведущий инженер (системный администратор)",
+    "url": "/vakansii/veduschij-inzhener-40904249.html",
+    "salary_min": 80000,
+    "salary_max": "",
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fdb251cafcddbe6dec5480"
+    },
+    "position": "Data Engineer",
+    "url": "/vakansii/data-engineer-40976229.html",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fdb251cafcddbe6dec5483"
+    },
+    "position": "Старший инженер цифровой телефонии",
+    "url": "/vakansii/starshij-inzhener-cifrovoj-telefonii-41201346.html",
+    "salary_min": 100000,
+    "salary_max": 125000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fdb251cafcddbe6dec5486"
+    },
+    "position": "Системный администратор (Windows Linux)",
+    "url": "/vakansii/sistemnyj-administrator-41309042.html",
+    "salary_min": "",
+    "salary_max": 120000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fdb251cafcddbe6dec5489"
+    },
+    "position": "Разработчик С++ / Qt",
+    "url": "/vakansii/razrabotchik-s-41438821.html",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fdb251cafcddbe6dec548c"
+    },
+    "position": "Программист-разработчик PHP",
+    "url": "/vakansii/programmist-razrabotchik-php-40973316.html",
+    "salary_min": 150000,
+    "salary_max": "",
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fdb251cafcddbe6dec548f"
+    },
+    "position": "Программист IT (переезда на Кипр и Тайланд)",
+    "url": "/vakansii/programmist-it-41298521.html",
+    "salary_min": 200000,
+    "salary_max": "",
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fdb251cafcddbe6dec5492"
+    },
+    "position": "Специалист 1 разряда отдела мониторинга функционирования АИС ФНС России",
+    "url": "/vakansii/specialist-1-razryada-otdela-monitoringa-funkcionirovaniya-ais-fns-rossii-38482723.html",
+    "salary_min": 45000,
+    "salary_max": "",
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fdb251cafcddbe6dec5495"
+    },
+    "position": "Инженер-робототехник (Мехатроника, АСУ, Электроприводы) / Инженер АСУ ТП",
+    "url": "/vakansii/inzhener-robototehnik-41421120.html",
+    "salary_min": 140000,
+    "salary_max": "",
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fdb251cafcddbe6dec5498"
+    },
+    "position": "Компьютерный лингвист",
+    "url": "/vakansii/kompyuternyj-lingvist-38199602.html",
+    "salary_min": 35000,
+    "salary_max": "",
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fdb251cafcddbe6dec549b"
+    },
+    "position": "Node.js Developer",
+    "url": "/vakansii/node-40968519.html",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fdb251cafcddbe6dec549e"
+    },
+    "position": "Программист С++",
+    "url": "/vakansii/programmist-s-40930970.html",
+    "salary_min": 170000,
+    "salary_max": 200000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fdb251cafcddbe6dec54a1"
+    },
+    "position": "Senior ML Engineer / NLP Expert",
+    "url": "/vakansii/senior-ml-engineer-41184138.html",
+    "salary_min": "",
+    "salary_max": 200000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fdb251cafcddbe6dec54a4"
+    },
+    "position": "Specialist DevOps",
+    "url": "/vakansii/specialist-devops-40719801.html",
+    "salary_min": "",
+    "salary_max": 300000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fdb252cafcddbe6dec54a7"
+    },
+    "position": "ML инженер",
+    "url": "/vakansii/ml-inzhener-41010612.html",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fdb252cafcddbe6dec54aa"
+    },
+    "position": "PHP Backend разработчик (Middle/Senior)",
+    "url": "/vakansii/php-backend-razrabotchik-40976164.html",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fdb252cafcddbe6dec54ad"
+    },
+    "position": "DATA инженер Lead",
+    "url": "/vakansii/data-inzhener-lead-41016072.html",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fdb252cafcddbe6dec54b0"
+    },
+    "position": "Junior ML-разработчик",
+    "url": "/vakansii/junior-ml-razrabotchik-40976016.html",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fdb252cafcddbe6dec54b3"
+    },
+    "position": "Junior Monitoring Developer / Разработчик систем мониторинга",
+    "url": "/vakansii/junior-monitoring-developer-40975754.html",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fdb252cafcddbe6dec54b6"
+    },
+    "position": "Junior Data Engineer",
+    "url": "/vakansii/junior-data-engineer-40975724.html",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fdb252cafcddbe6dec54b9"
+    },
+    "position": "MLOps Инженер",
+    "url": "/vakansii/mlops-inzhener-40972939.html",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fdb252cafcddbe6dec54bc"
+    },
+    "position": "Junior DevOps",
+    "url": "/vakansii/junior-devops-40973372.html",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  }
+]

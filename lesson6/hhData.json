@@ -1,0 +1,3342 @@
+[
+  {
+    "_id": {
+      "$oid": "61fd9e78cafcddbe6dec4bb8"
+    },
+    "position": "Backend-разработчик Python + Django (Middle/Senior)",
+    "url": "https://hh.ru/vacancy/50999248?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 180000,
+    "salary_max": 230000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ec7cafcddbe6dec4bd3"
+    },
+    "position": "Специалист по тестированию",
+    "url": "https://hh.ru/vacancy/40585500?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ec7cafcddbe6dec4bd6"
+    },
+    "position": "Devops engineer (Hadoop)",
+    "url": "https://hh.ru/vacancy/49493874?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 300000,
+    "salary_max": "",
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ec7cafcddbe6dec4bd9"
+    },
+    "position": "Аналитик направления цифрового маркетинга (BI\\SQL\\Python)",
+    "url": "https://hh.ru/vacancy/49881796?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 170000,
+    "salary_max": 210000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ec7cafcddbe6dec4bdc"
+    },
+    "position": "Аналитик данных",
+    "url": "https://hh.ru/vacancy/46241509?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ec8cafcddbe6dec4be1"
+    },
+    "position": "Scala разработчик",
+    "url": "https://hh.ru/vacancy/51882397?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ec8cafcddbe6dec4be4"
+    },
+    "position": "Data Scientist (команда Поиска)",
+    "url": "https://hh.ru/vacancy/46048820?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ec8cafcddbe6dec4be7"
+    },
+    "position": "Разработчик Python / Программист Python (удаленно)",
+    "url": "https://hh.ru/vacancy/51104227?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 50000,
+    "salary_max": "",
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ec8cafcddbe6dec4bea"
+    },
+    "position": "Стажёр-программист Python / Python Developer Trainee",
+    "url": "https://hh.ru/vacancy/50927402?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 25000,
+    "salary_max": "",
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ec8cafcddbe6dec4bed"
+    },
+    "position": "Junior Data Engineer (Python)",
+    "url": "https://hh.ru/vacancy/50637406?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 150000,
+    "salary_max": 190000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ec8cafcddbe6dec4bf0"
+    },
+    "position": "Стажер-разработчик Python",
+    "url": "https://hh.ru/vacancy/50955297?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 20000,
+    "salary_max": 50000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ec8cafcddbe6dec4bf3"
+    },
+    "position": "Python Backend Developer (Middle/Remote) - Разработка рисков",
+    "url": "https://hh.ru/vacancy/50835421?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 150000,
+    "salary_max": 200000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ec8cafcddbe6dec4bf6"
+    },
+    "position": "Junior Backend Developer (Python) / Python Developer / Python разработчик / Middle Python developer",
+    "url": "https://hh.ru/vacancy/52046216?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": 80000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ec8cafcddbe6dec4bf9"
+    },
+    "position": "Python разработчик",
+    "url": "https://hh.ru/vacancy/51629618?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ec8cafcddbe6dec4bfc"
+    },
+    "position": "Data engineer / Python developer",
+    "url": "https://hh.ru/vacancy/50957449?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 200000,
+    "salary_max": 500000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ec8cafcddbe6dec4bff"
+    },
+    "position": "Программист Python",
+    "url": "https://hh.ru/vacancy/49592394?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 60000,
+    "salary_max": 200000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ec8cafcddbe6dec4c02"
+    },
+    "position": "Python разработчик",
+    "url": "https://hh.ru/vacancy/49590587?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": 380000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ec8cafcddbe6dec4c05"
+    },
+    "position": "Разработчик Solidity/Разработчик Rust/Разработчик Go/Разработчтик python(удаленно)",
+    "url": "https://hh.ru/vacancy/48457284?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 600000,
+    "salary_max": "",
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ec8cafcddbe6dec4c08"
+    },
+    "position": "QA специалист в команду Биллинга",
+    "url": "https://hh.ru/vacancy/47251783?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ec8cafcddbe6dec4c0b"
+    },
+    "position": "QA engineer",
+    "url": "https://hh.ru/vacancy/50585453?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ec8cafcddbe6dec4c0e"
+    },
+    "position": "Junior/Middle Quantitative Researcher",
+    "url": "https://hh.ru/vacancy/52011740?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 130000,
+    "salary_max": 180000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ec8cafcddbe6dec4c11"
+    },
+    "position": "Python developer",
+    "url": "https://hh.ru/vacancy/51948050?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 4000,
+    "salary_max": "",
+    "currency": "USD"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ec9cafcddbe6dec4c14"
+    },
+    "position": "Разработчик Python",
+    "url": "https://hh.ru/vacancy/50952818?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 50000,
+    "salary_max": 70000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ec9cafcddbe6dec4c17"
+    },
+    "position": "Python Разработчик",
+    "url": "https://hh.ru/vacancy/51844620?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 200000,
+    "salary_max": "",
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ec9cafcddbe6dec4c1a"
+    },
+    "position": "Python разработчик",
+    "url": "https://hh.ru/vacancy/51649949?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 70000,
+    "salary_max": "",
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ec9cafcddbe6dec4c1d"
+    },
+    "position": "Backend разработчик на Python / Django",
+    "url": "https://hh.ru/vacancy/51727271?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 2000,
+    "salary_max": "",
+    "currency": "USD"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ec9cafcddbe6dec4c20"
+    },
+    "position": "Разработчик-Python (Django, DRF)",
+    "url": "https://hh.ru/vacancy/50832752?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 170000,
+    "salary_max": 220000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ec9cafcddbe6dec4c23"
+    },
+    "position": "Junior data analyst",
+    "url": "https://hh.ru/vacancy/52077233?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 40000,
+    "salary_max": 60000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ec9cafcddbe6dec4c26"
+    },
+    "position": "Python Developer",
+    "url": "https://hh.ru/vacancy/52035797?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ec9cafcddbe6dec4c29"
+    },
+    "position": "Разработчик Python",
+    "url": "https://hh.ru/vacancy/52085688?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 200000,
+    "salary_max": "",
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ec9cafcddbe6dec4c2c"
+    },
+    "position": "Backend Engineer / Python, asyncio, aiohttp (remote)",
+    "url": "https://hh.ru/vacancy/51412381?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 3500,
+    "salary_max": 5000,
+    "currency": "USD"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ec9cafcddbe6dec4c2f"
+    },
+    "position": "Python/C++ техлид",
+    "url": "https://hh.ru/vacancy/52033353?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 200000,
+    "salary_max": 400000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ec9cafcddbe6dec4c32"
+    },
+    "position": "Junior+/middle Python разработчик",
+    "url": "https://hh.ru/vacancy/50817658?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 100000,
+    "salary_max": "",
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ec9cafcddbe6dec4c35"
+    },
+    "position": "Senior Python Developer",
+    "url": "https://hh.ru/vacancy/52120827?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 5000,
+    "salary_max": 6000,
+    "currency": "USD"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ec9cafcddbe6dec4c38"
+    },
+    "position": "Стажер BigData разработчик (Python)",
+    "url": "https://hh.ru/vacancy/50857602?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ec9cafcddbe6dec4c3b"
+    },
+    "position": "Python разработчик (Middle\\Senior)",
+    "url": "https://hh.ru/vacancy/52029353?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 180000,
+    "salary_max": 350000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ec9cafcddbe6dec4c3e"
+    },
+    "position": "Разработчик Python",
+    "url": "https://hh.ru/vacancy/50563570?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 100000,
+    "salary_max": 200000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ec9cafcddbe6dec4c41"
+    },
+    "position": "Python-разработчик (Django, DRF)",
+    "url": "https://hh.ru/vacancy/39736489?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 60000,
+    "salary_max": 150000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ec9cafcddbe6dec4c44"
+    },
+    "position": "Программист Python",
+    "url": "https://hh.ru/vacancy/52085895?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 240000,
+    "salary_max": 400000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ec9cafcddbe6dec4c47"
+    },
+    "position": "Senior C++ developer",
+    "url": "https://hh.ru/vacancy/52090588?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 300000,
+    "salary_max": 700000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ecacafcddbe6dec4c4c"
+    },
+    "position": "Разработчик Python",
+    "url": "https://hh.ru/vacancy/51499348?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 100000,
+    "salary_max": "",
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ecacafcddbe6dec4c4f"
+    },
+    "position": "Бэкэнд-разработчик (Python, Django)",
+    "url": "https://hh.ru/vacancy/50956870?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 3000,
+    "salary_max": 4000,
+    "currency": "USD"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ecacafcddbe6dec4c52"
+    },
+    "position": "Backend разработчик (Python)",
+    "url": "https://hh.ru/vacancy/52045980?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 250000,
+    "salary_max": 350000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ecacafcddbe6dec4c55"
+    },
+    "position": "Python программист (MaxPatrol VM)",
+    "url": "https://hh.ru/vacancy/52065180?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ecacafcddbe6dec4c58"
+    },
+    "position": "Backend разработчик (junior, python)",
+    "url": "https://hh.ru/vacancy/52028880?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 80000,
+    "salary_max": 110000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ecacafcddbe6dec4c5b"
+    },
+    "position": "Стажер Data scientist",
+    "url": "https://hh.ru/vacancy/52118395?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": 35000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ecacafcddbe6dec4c5e"
+    },
+    "position": "Python Developer",
+    "url": "https://hh.ru/vacancy/51215380?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 70000,
+    "salary_max": 200000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ecbcafcddbe6dec4c61"
+    },
+    "position": "Data Engineer",
+    "url": "https://hh.ru/vacancy/52007147?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 200000,
+    "salary_max": 300000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ecbcafcddbe6dec4c64"
+    },
+    "position": "Middle Python разработчик (Django / Flask)",
+    "url": "https://hh.ru/vacancy/51033229?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 120000,
+    "salary_max": 180000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ecbcafcddbe6dec4c67"
+    },
+    "position": "Python Software Engineer (Middle, Senior, Lead)",
+    "url": "https://hh.ru/vacancy/52047342?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 260000,
+    "salary_max": 500000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ecbcafcddbe6dec4c6a"
+    },
+    "position": "Специалист по машинному обучению и анализу изображений",
+    "url": "https://hh.ru/vacancy/52021323?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 100000,
+    "salary_max": 300000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ecbcafcddbe6dec4c6d"
+    },
+    "position": "Аналитик Данных / BI Analyst (Junior+ / Middle)",
+    "url": "https://hh.ru/vacancy/52062327?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 100000,
+    "salary_max": 120000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ecbcafcddbe6dec4c70"
+    },
+    "position": "Python разработчик (QA)",
+    "url": "https://hh.ru/vacancy/50995571?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 70000,
+    "salary_max": 150000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ecbcafcddbe6dec4c73"
+    },
+    "position": "Backend-разработчик Python",
+    "url": "https://hh.ru/vacancy/51820922?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 170000,
+    "salary_max": 230000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ecbcafcddbe6dec4c76"
+    },
+    "position": "Python разработчик",
+    "url": "https://hh.ru/vacancy/52115773?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 100000,
+    "salary_max": 250000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ecbcafcddbe6dec4c79"
+    },
+    "position": "Младший компьютерный лингвист (Python) / Junior Data Scientist",
+    "url": "https://hh.ru/vacancy/48944828?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 120000,
+    "salary_max": "",
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ecbcafcddbe6dec4c7c"
+    },
+    "position": "Аналитик (SQL, Python)",
+    "url": "https://hh.ru/vacancy/50872496?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ecbcafcddbe6dec4c7f"
+    },
+    "position": "Data Scientist / Аналитик больших данных",
+    "url": "https://hh.ru/vacancy/51952618?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 100000,
+    "salary_max": 250000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ecbcafcddbe6dec4c82"
+    },
+    "position": "Python Flask developer (remote)",
+    "url": "https://hh.ru/vacancy/52052303?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": 5000,
+    "currency": "USD"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ecbcafcddbe6dec4c85"
+    },
+    "position": "Программист Python django",
+    "url": "https://hh.ru/vacancy/52109480?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 160000,
+    "salary_max": 160000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ecbcafcddbe6dec4c88"
+    },
+    "position": "Программист Python",
+    "url": "https://hh.ru/vacancy/51108638?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ecbcafcddbe6dec4c8b"
+    },
+    "position": "Data Scientist (Middle)",
+    "url": "https://hh.ru/vacancy/51421868?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 200000,
+    "salary_max": 330000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ecbcafcddbe6dec4c8e"
+    },
+    "position": "Backend-разработчик",
+    "url": "https://hh.ru/vacancy/51789474?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 300000,
+    "salary_max": "",
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ecbcafcddbe6dec4c91"
+    },
+    "position": "Middle Python Backend Developer",
+    "url": "https://hh.ru/vacancy/51034764?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 150000,
+    "salary_max": "",
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ecccafcddbe6dec4c94"
+    },
+    "position": "Python разработчик (FastAPI / aiohttp / sanic)",
+    "url": "https://hh.ru/vacancy/51699644?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ecccafcddbe6dec4c97"
+    },
+    "position": "Python Разработчик",
+    "url": "https://hh.ru/vacancy/51605175?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 225000,
+    "salary_max": "",
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ecccafcddbe6dec4c9a"
+    },
+    "position": "Младший Python программист (MaxPatrol 8)",
+    "url": "https://hh.ru/vacancy/52113553?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ecccafcddbe6dec4c9d"
+    },
+    "position": "Junior Data Engineer",
+    "url": "https://hh.ru/vacancy/50929393?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ecccafcddbe6dec4ca0"
+    },
+    "position": "Python backend разработчик",
+    "url": "https://hh.ru/vacancy/50888786?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 190000,
+    "salary_max": "",
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ecccafcddbe6dec4ca3"
+    },
+    "position": "Python разработчик (Персона)",
+    "url": "https://hh.ru/vacancy/50731247?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ecccafcddbe6dec4ca6"
+    },
+    "position": "Deep Learning/ Machine Learning NLP Engineer",
+    "url": "https://hh.ru/vacancy/51718324?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 100000,
+    "salary_max": 200000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ecccafcddbe6dec4ca9"
+    },
+    "position": "Python разработчик",
+    "url": "https://hh.ru/vacancy/50861856?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 80000,
+    "salary_max": 120000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ecccafcddbe6dec4cac"
+    },
+    "position": "Бэкенд-разработчик (Python) / Middle Python / Python Developer (Remote)",
+    "url": "https://hh.ru/vacancy/50896517?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 150000,
+    "salary_max": 220000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ecccafcddbe6dec4caf"
+    },
+    "position": "Data Scientist",
+    "url": "https://hh.ru/vacancy/50382739?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 60000,
+    "salary_max": 200000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ecccafcddbe6dec4cb2"
+    },
+    "position": "Backend-разработчик (Python)",
+    "url": "https://hh.ru/vacancy/52123736?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 150000,
+    "salary_max": 300000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ecccafcddbe6dec4cb5"
+    },
+    "position": "Разработчик Python",
+    "url": "https://hh.ru/vacancy/52062760?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 100000,
+    "salary_max": 200000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ecccafcddbe6dec4cb8"
+    },
+    "position": "Стажер Data Engineer",
+    "url": "https://hh.ru/vacancy/51799722?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ecccafcddbe6dec4cbb"
+    },
+    "position": "Разработчик Python",
+    "url": "https://hh.ru/vacancy/52087267?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 60000,
+    "salary_max": 100000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ecccafcddbe6dec4cbe"
+    },
+    "position": "Python-разработчик",
+    "url": "https://hh.ru/vacancy/49397922?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 200000,
+    "salary_max": 300000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ecccafcddbe6dec4cc1"
+    },
+    "position": "Data Scientist",
+    "url": "https://hh.ru/vacancy/51045137?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 1000,
+    "salary_max": 1500,
+    "currency": "EUR"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ecdcafcddbe6dec4cc4"
+    },
+    "position": "Data engineer Junior",
+    "url": "https://hh.ru/vacancy/52065572?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": 40000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ecdcafcddbe6dec4cc7"
+    },
+    "position": "Разработчик Python",
+    "url": "https://hh.ru/vacancy/52075108?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ecdcafcddbe6dec4cca"
+    },
+    "position": "Программист Python (linux)",
+    "url": "https://hh.ru/vacancy/51623174?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 60000,
+    "salary_max": 110000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ecdcafcddbe6dec4ccd"
+    },
+    "position": "Software Developer Python",
+    "url": "https://hh.ru/vacancy/50950040?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 60000,
+    "salary_max": 180000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ecdcafcddbe6dec4cd0"
+    },
+    "position": "Python developer",
+    "url": "https://hh.ru/vacancy/52121017?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": 250000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ecdcafcddbe6dec4cd3"
+    },
+    "position": "Бэкэнд-разработчик Python / Django (удалённо)",
+    "url": "https://hh.ru/vacancy/52043924?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ecdcafcddbe6dec4cd6"
+    },
+    "position": "Разработчик Python",
+    "url": "https://hh.ru/vacancy/51504921?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ecdcafcddbe6dec4cd9"
+    },
+    "position": "Инженер-программист С++/Python",
+    "url": "https://hh.ru/vacancy/51987589?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ecdcafcddbe6dec4cdc"
+    },
+    "position": "Разработчик Python",
+    "url": "https://hh.ru/vacancy/51863784?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ecdcafcddbe6dec4cdf"
+    },
+    "position": "Python - разработчик (NIFI)",
+    "url": "https://hh.ru/vacancy/52037705?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 170000,
+    "salary_max": 220000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ecdcafcddbe6dec4ce2"
+    },
+    "position": "Разработчик Python",
+    "url": "https://hh.ru/vacancy/51255569?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ecdcafcddbe6dec4ce5"
+    },
+    "position": "Python разработчик / программист Python (Python Developer)",
+    "url": "https://hh.ru/vacancy/49149466?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 150000,
+    "salary_max": "",
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ecdcafcddbe6dec4ce8"
+    },
+    "position": "Программирующий математик / Алгоритмист (на Кипр)",
+    "url": "https://hh.ru/vacancy/51532651?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 4000,
+    "salary_max": "",
+    "currency": "EUR"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ecdcafcddbe6dec4ceb"
+    },
+    "position": "Backend разработчик (Python)",
+    "url": "https://hh.ru/vacancy/51905201?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ecdcafcddbe6dec4cee"
+    },
+    "position": "Data Analyst",
+    "url": "https://hh.ru/vacancy/51821934?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 220000,
+    "salary_max": "",
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ecdcafcddbe6dec4cf1"
+    },
+    "position": "Python (релокейт в ЕС/без требования к English/Продукт)",
+    "url": "https://hh.ru/vacancy/52122810?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ececafcddbe6dec4cf4"
+    },
+    "position": "Python разработчик (Django)",
+    "url": "https://hh.ru/vacancy/51205321?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ececafcddbe6dec4cf7"
+    },
+    "position": "Python Developer с интересом к Machine Learning",
+    "url": "https://hh.ru/vacancy/51258131?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ececafcddbe6dec4cfa"
+    },
+    "position": "Web-разработчик (python/javascript)",
+    "url": "https://hh.ru/vacancy/51062287?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": 180000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ececafcddbe6dec4cfd"
+    },
+    "position": "Junior Data Scientist",
+    "url": "https://hh.ru/vacancy/52112224?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ececafcddbe6dec4d00"
+    },
+    "position": "Senior Backend Developer (Python)",
+    "url": "https://hh.ru/vacancy/50893121?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 3000,
+    "salary_max": 6000,
+    "currency": "USD"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ececafcddbe6dec4d03"
+    },
+    "position": "Разработчик C# / Python",
+    "url": "https://hh.ru/vacancy/49749758?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 200000,
+    "salary_max": "",
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ececafcddbe6dec4d06"
+    },
+    "position": "Data Scientist (NLP)",
+    "url": "https://hh.ru/vacancy/51960126?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ececafcddbe6dec4d09"
+    },
+    "position": "Программист Python",
+    "url": "https://hh.ru/vacancy/51897790?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ececafcddbe6dec4d0c"
+    },
+    "position": "Python-разработчик",
+    "url": "https://hh.ru/vacancy/51855274?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ececafcddbe6dec4d0f"
+    },
+    "position": "Разработчик Python (Forecsys)",
+    "url": "https://hh.ru/vacancy/52078779?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ececafcddbe6dec4d12"
+    },
+    "position": "Back-end python программист (удаленно)",
+    "url": "https://hh.ru/vacancy/45987039?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 200000,
+    "salary_max": "",
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ececafcddbe6dec4d15"
+    },
+    "position": "Data Scientist",
+    "url": "https://hh.ru/vacancy/52120886?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": 250000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ececafcddbe6dec4d18"
+    },
+    "position": "Data Science Intern, BCG GAMMA",
+    "url": "https://hh.ru/vacancy/52076293?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ececafcddbe6dec4d1b"
+    },
+    "position": "Middle/Senior Python Developer",
+    "url": "https://hh.ru/vacancy/51946677?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 180000,
+    "salary_max": 300000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ececafcddbe6dec4d1e"
+    },
+    "position": "Разработчик Python Middle/Senior",
+    "url": "https://hh.ru/vacancy/52116036?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 2500,
+    "salary_max": "",
+    "currency": "USD"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ececafcddbe6dec4d21"
+    },
+    "position": "Python-разработчик (Middle+/Senior Python Developer)",
+    "url": "https://hh.ru/vacancy/51343802?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 250000,
+    "salary_max": 400000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ececafcddbe6dec4d24"
+    },
+    "position": "Python разработчик",
+    "url": "https://hh.ru/vacancy/47757295?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ececafcddbe6dec4d27"
+    },
+    "position": "Ведущий Python разработчик",
+    "url": "https://hh.ru/vacancy/51993004?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 150000,
+    "salary_max": 220000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ecfcafcddbe6dec4d2a"
+    },
+    "position": "Python разработчик",
+    "url": "https://hh.ru/vacancy/51787349?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ecfcafcddbe6dec4d2d"
+    },
+    "position": "Data Analyst / Data Scientist",
+    "url": "https://hh.ru/vacancy/51779542?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ecfcafcddbe6dec4d30"
+    },
+    "position": "Python developer",
+    "url": "https://hh.ru/vacancy/50587236?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 140000,
+    "salary_max": 180000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ecfcafcddbe6dec4d33"
+    },
+    "position": "Senior Python developer (python3.8. + django)",
+    "url": "https://hh.ru/vacancy/51093436?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 250000,
+    "salary_max": 300000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ecfcafcddbe6dec4d36"
+    },
+    "position": "Разработчик (Python)",
+    "url": "https://hh.ru/vacancy/40551245?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 100000,
+    "salary_max": 160000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ecfcafcddbe6dec4d39"
+    },
+    "position": "Senior Backend Python Developer команда SpeechKit (MTS AI)",
+    "url": "https://hh.ru/vacancy/49254587?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 250000,
+    "salary_max": "",
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ecfcafcddbe6dec4d3c"
+    },
+    "position": "Backend разработчик Python",
+    "url": "https://hh.ru/vacancy/52030162?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ecfcafcddbe6dec4d3f"
+    },
+    "position": "Python Engineer / Разработчик Python",
+    "url": "https://hh.ru/vacancy/52072246?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ecfcafcddbe6dec4d42"
+    },
+    "position": "QA automation engineer (Python)",
+    "url": "https://hh.ru/vacancy/52082730?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 200000,
+    "salary_max": "",
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ecfcafcddbe6dec4d45"
+    },
+    "position": "Стажёр отдела аналитики",
+    "url": "https://hh.ru/vacancy/52008574?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ecfcafcddbe6dec4d48"
+    },
+    "position": "Python-разработчик (middle)",
+    "url": "https://hh.ru/vacancy/51702992?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 150000,
+    "salary_max": "",
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ecfcafcddbe6dec4d4b"
+    },
+    "position": "JS/Python разработчик",
+    "url": "https://hh.ru/vacancy/50675251?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ecfcafcddbe6dec4d4e"
+    },
+    "position": "DevOps инженер",
+    "url": "https://hh.ru/vacancy/51112762?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 300000,
+    "salary_max": 515000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ecfcafcddbe6dec4d51"
+    },
+    "position": "Python разработчик",
+    "url": "https://hh.ru/vacancy/49104282?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": 300000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ecfcafcddbe6dec4d54"
+    },
+    "position": "Middle C++ and Python Developer",
+    "url": "https://hh.ru/vacancy/50560990?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": 220000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ecfcafcddbe6dec4d57"
+    },
+    "position": "Go/Python developer",
+    "url": "https://hh.ru/vacancy/52020360?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": 400000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ecfcafcddbe6dec4d5a"
+    },
+    "position": "Разработчик Python",
+    "url": "https://hh.ru/vacancy/48993749?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed0cafcddbe6dec4d5d"
+    },
+    "position": "Computer vision",
+    "url": "https://hh.ru/vacancy/51707996?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 200000,
+    "salary_max": "",
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed0cafcddbe6dec4d60"
+    },
+    "position": "Quantitative Developer",
+    "url": "https://hh.ru/vacancy/50889422?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 400000,
+    "salary_max": "",
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed0cafcddbe6dec4d63"
+    },
+    "position": "Middle Python разработчик",
+    "url": "https://hh.ru/vacancy/50073057?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": 200000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed0cafcddbe6dec4d66"
+    },
+    "position": "Senior / Middle python developer",
+    "url": "https://hh.ru/vacancy/51183121?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 200000,
+    "salary_max": 265000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed0cafcddbe6dec4d69"
+    },
+    "position": "Python программист-разработчик",
+    "url": "https://hh.ru/vacancy/51482724?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 100000,
+    "salary_max": "",
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed0cafcddbe6dec4d6c"
+    },
+    "position": "Python (FastApi) Backend developer",
+    "url": "https://hh.ru/vacancy/51504482?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": 270000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed0cafcddbe6dec4d6f"
+    },
+    "position": "Python разработчик",
+    "url": "https://hh.ru/vacancy/52110705?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed0cafcddbe6dec4d72"
+    },
+    "position": "Python разработчик (senior) (backend)/ Backend Team lead",
+    "url": "https://hh.ru/vacancy/43941903?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": 500000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed0cafcddbe6dec4d75"
+    },
+    "position": "Python разработчик",
+    "url": "https://hh.ru/vacancy/52044360?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed0cafcddbe6dec4d78"
+    },
+    "position": "Python Backend Developer (Django)",
+    "url": "https://hh.ru/vacancy/52030504?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed0cafcddbe6dec4d7b"
+    },
+    "position": "Middle Python-разработчик (EdTech-стартап)",
+    "url": "https://hh.ru/vacancy/51409548?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 140000,
+    "salary_max": 170000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed0cafcddbe6dec4d7e"
+    },
+    "position": "Software Engineer (C++ and Python)",
+    "url": "https://hh.ru/vacancy/51916551?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed0cafcddbe6dec4d81"
+    },
+    "position": "Web Data Analyst",
+    "url": "https://hh.ru/vacancy/51948024?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 220000,
+    "salary_max": "",
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed0cafcddbe6dec4d84"
+    },
+    "position": "Разработчик Python",
+    "url": "https://hh.ru/vacancy/49785271?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed1cafcddbe6dec4d87"
+    },
+    "position": "Data Engineer/ETL Developer",
+    "url": "https://hh.ru/vacancy/49130051?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": 4000,
+    "currency": "EUR"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed1cafcddbe6dec4d8a"
+    },
+    "position": "Python разработчик в команду Облака",
+    "url": "https://hh.ru/vacancy/52115769?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed1cafcddbe6dec4d8d"
+    },
+    "position": "Python Developer",
+    "url": "https://hh.ru/vacancy/50968793?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 135000,
+    "salary_max": 187000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed1cafcddbe6dec4d90"
+    },
+    "position": "Full-Stack Python Developer",
+    "url": "https://hh.ru/vacancy/51809964?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 5000,
+    "salary_max": 8000,
+    "currency": "USD"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed1cafcddbe6dec4d93"
+    },
+    "position": "Разработчик Python",
+    "url": "https://hh.ru/vacancy/51343530?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed1cafcddbe6dec4d96"
+    },
+    "position": "Middle Python разработчик",
+    "url": "https://hh.ru/vacancy/51259683?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 180000,
+    "salary_max": "",
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed1cafcddbe6dec4d99"
+    },
+    "position": "Python Developer",
+    "url": "https://hh.ru/vacancy/49519307?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 120000,
+    "salary_max": 160000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed1cafcddbe6dec4d9c"
+    },
+    "position": "Python (Django) Backend developer",
+    "url": "https://hh.ru/vacancy/49139962?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": 270000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed1cafcddbe6dec4d9f"
+    },
+    "position": "Middle-backend Python разработчик / программист",
+    "url": "https://hh.ru/vacancy/50967321?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 180000,
+    "salary_max": 210000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed1cafcddbe6dec4da2"
+    },
+    "position": "Разработчик алгоритмов глубокого машинного обучения (ML, нейронные сети)",
+    "url": "https://hh.ru/vacancy/51414900?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 200000,
+    "salary_max": 300000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed1cafcddbe6dec4da5"
+    },
+    "position": "Python разработчик",
+    "url": "https://hh.ru/vacancy/51933544?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed1cafcddbe6dec4da8"
+    },
+    "position": "Программист Python (The Standoff)",
+    "url": "https://hh.ru/vacancy/52097714?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed1cafcddbe6dec4dab"
+    },
+    "position": "Django разработчик",
+    "url": "https://hh.ru/vacancy/51669079?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 100000,
+    "salary_max": 150000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed1cafcddbe6dec4dae"
+    },
+    "position": "Data analyst (Аналитик данных)",
+    "url": "https://hh.ru/vacancy/50767547?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed1cafcddbe6dec4db1"
+    },
+    "position": "Middle+ разработчик Python / Django (удалённо)",
+    "url": "https://hh.ru/vacancy/50759093?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 120000,
+    "salary_max": 160000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed1cafcddbe6dec4db4"
+    },
+    "position": "Python Developer/Инженер по разработке коробочных решений",
+    "url": "https://hh.ru/vacancy/52035180?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 200000,
+    "salary_max": 250000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed2cafcddbe6dec4db7"
+    },
+    "position": "Data scientist",
+    "url": "https://hh.ru/vacancy/51710392?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 300000,
+    "salary_max": "",
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed2cafcddbe6dec4dba"
+    },
+    "position": "Python разработчик",
+    "url": "https://hh.ru/vacancy/52000414?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed2cafcddbe6dec4dbd"
+    },
+    "position": "Senior Python Developer (cybersecurity)",
+    "url": "https://hh.ru/vacancy/49429609?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 250000,
+    "salary_max": 350000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed2cafcddbe6dec4dc0"
+    },
+    "position": "Senior ML Researcher",
+    "url": "https://hh.ru/vacancy/49383447?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 420000,
+    "salary_max": "",
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed2cafcddbe6dec4dc3"
+    },
+    "position": "Программист-математик/Алгоритмист (США)",
+    "url": "https://hh.ru/vacancy/51025081?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": 7000,
+    "currency": "USD"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed2cafcddbe6dec4dc6"
+    },
+    "position": "Разработчик Python",
+    "url": "https://hh.ru/vacancy/47731802?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed2cafcddbe6dec4dc9"
+    },
+    "position": "Математик-программист/аналитик",
+    "url": "https://hh.ru/vacancy/52039329?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 120000,
+    "salary_max": 250000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed2cafcddbe6dec4dcc"
+    },
+    "position": "Python-разработчик в Яндекс.ID",
+    "url": "https://hh.ru/vacancy/50948906?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed2cafcddbe6dec4dcf"
+    },
+    "position": "Разработчик Python на платежную платформу",
+    "url": "https://hh.ru/vacancy/50943512?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": 250000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed2cafcddbe6dec4dd2"
+    },
+    "position": "Junior Devops specialist",
+    "url": "https://hh.ru/vacancy/51999336?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed2cafcddbe6dec4dd5"
+    },
+    "position": "Python-разработчик",
+    "url": "https://hh.ru/vacancy/52049767?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed2cafcddbe6dec4dd8"
+    },
+    "position": "Программист-разработчик Python",
+    "url": "https://hh.ru/vacancy/50817835?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed2cafcddbe6dec4ddb"
+    },
+    "position": "Бэк-энд разработчик (Python, SQL)",
+    "url": "https://hh.ru/vacancy/41095804?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 100000,
+    "salary_max": 160000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed2cafcddbe6dec4dde"
+    },
+    "position": "Senior DevOps in Blockchain Startup",
+    "url": "https://hh.ru/vacancy/51835876?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 315000,
+    "salary_max": 860000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed2cafcddbe6dec4de1"
+    },
+    "position": "Разработчик Python",
+    "url": "https://hh.ru/vacancy/51189383?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed3cafcddbe6dec4de4"
+    },
+    "position": "Разработчик Python",
+    "url": "https://hh.ru/vacancy/46692454?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed3cafcddbe6dec4de7"
+    },
+    "position": "Python разработчик",
+    "url": "https://hh.ru/vacancy/48934640?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed3cafcddbe6dec4dea"
+    },
+    "position": "Разработчик ПО (Python)",
+    "url": "https://hh.ru/vacancy/52005387?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed3cafcddbe6dec4ded"
+    },
+    "position": "Data Scientist",
+    "url": "https://hh.ru/vacancy/49423067?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": 300000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed3cafcddbe6dec4df0"
+    },
+    "position": "Middle Python разработчик (удаленно)",
+    "url": "https://hh.ru/vacancy/49706622?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": 150000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed3cafcddbe6dec4df3"
+    },
+    "position": "Дата-сайентист / Data Scientist [Computer Vision]",
+    "url": "https://hh.ru/vacancy/52084874?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed3cafcddbe6dec4df6"
+    },
+    "position": "Программист Python/Backend разработчик Python",
+    "url": "https://hh.ru/vacancy/49794700?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": 250000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed3cafcddbe6dec4df9"
+    },
+    "position": "Python-разработчик в отдел информационных технологий распространения данных ДЗЗ",
+    "url": "https://hh.ru/vacancy/50701598?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 140000,
+    "salary_max": "",
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed3cafcddbe6dec4dfc"
+    },
+    "position": "Middle Python Developer",
+    "url": "https://hh.ru/vacancy/51279257?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 160000,
+    "salary_max": 200000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed3cafcddbe6dec4dff"
+    },
+    "position": "Программист Python (удаленно)",
+    "url": "https://hh.ru/vacancy/50056408?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed3cafcddbe6dec4e02"
+    },
+    "position": "Data Engineer",
+    "url": "https://hh.ru/vacancy/51195699?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 210000,
+    "salary_max": "",
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed3cafcddbe6dec4e05"
+    },
+    "position": "Senior / Lead Data Scientist (Recommender Systems)",
+    "url": "https://hh.ru/vacancy/51256964?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": 450000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed3cafcddbe6dec4e08"
+    },
+    "position": "Junior Data analyst (Vietnam)",
+    "url": "https://hh.ru/vacancy/51661793?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 100000,
+    "salary_max": 200000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed3cafcddbe6dec4e0b"
+    },
+    "position": "Backend-разработчик Python (Middle/Middle+)",
+    "url": "https://hh.ru/vacancy/52049492?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 120000,
+    "salary_max": 160000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed3cafcddbe6dec4e0e"
+    },
+    "position": "Python разработчик",
+    "url": "https://hh.ru/vacancy/50079157?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 130000,
+    "salary_max": "",
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed4cafcddbe6dec4e11"
+    },
+    "position": "Бэкенд разрабочтик на Python",
+    "url": "https://hh.ru/vacancy/52004593?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": 80000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed4cafcddbe6dec4e14"
+    },
+    "position": "Ведущий Python-разработчик (Senior/TechLead Python Developer)",
+    "url": "https://hh.ru/vacancy/51348401?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 400000,
+    "salary_max": "",
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed4cafcddbe6dec4e17"
+    },
+    "position": "Программист С++",
+    "url": "https://hh.ru/vacancy/50101775?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 130000,
+    "salary_max": "",
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed4cafcddbe6dec4e1a"
+    },
+    "position": "Teamlead Backend (Python)",
+    "url": "https://hh.ru/vacancy/50832755?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": 350000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed4cafcddbe6dec4e1d"
+    },
+    "position": "Python программист",
+    "url": "https://hh.ru/vacancy/47477660?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed4cafcddbe6dec4e20"
+    },
+    "position": "Программист (Python)",
+    "url": "https://hh.ru/vacancy/46694196?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed4cafcddbe6dec4e23"
+    },
+    "position": "Data analyst",
+    "url": "https://hh.ru/vacancy/51003578?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 180000,
+    "salary_max": 270000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed4cafcddbe6dec4e26"
+    },
+    "position": "Python-разработчик (Confer)",
+    "url": "https://hh.ru/vacancy/52105466?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed4cafcddbe6dec4e2b"
+    },
+    "position": "Python Developer (remote)",
+    "url": "https://hh.ru/vacancy/50884209?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 150000,
+    "salary_max": "",
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed4cafcddbe6dec4e2e"
+    },
+    "position": "Python-разработчик в новый продукт Контура",
+    "url": "https://hh.ru/vacancy/50799311?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 160000,
+    "salary_max": "",
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed4cafcddbe6dec4e31"
+    },
+    "position": "Python разработчик",
+    "url": "https://hh.ru/vacancy/50697785?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed4cafcddbe6dec4e34"
+    },
+    "position": "Middle Data Scientist",
+    "url": "https://hh.ru/vacancy/50490211?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 1500,
+    "salary_max": 3000,
+    "currency": "USD"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed4cafcddbe6dec4e37"
+    },
+    "position": "Программист Python / Bash",
+    "url": "https://hh.ru/vacancy/52084666?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed4cafcddbe6dec4e3a"
+    },
+    "position": "Программист (Python, сетевые технологии)",
+    "url": "https://hh.ru/vacancy/50740054?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed4cafcddbe6dec4e3d"
+    },
+    "position": "Python разработчик (AWS)",
+    "url": "https://hh.ru/vacancy/51004272?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": 450000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed4cafcddbe6dec4e40"
+    },
+    "position": "C++ Software Engineer",
+    "url": "https://hh.ru/vacancy/51896305?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 200000,
+    "salary_max": 250000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed4cafcddbe6dec4e43"
+    },
+    "position": "Разработчик Python / DataLake-инженер",
+    "url": "https://hh.ru/vacancy/51098802?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed5cafcddbe6dec4e46"
+    },
+    "position": "Python-разработчик (Middle)",
+    "url": "https://hh.ru/vacancy/51625774?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 180000,
+    "salary_max": 220000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed5cafcddbe6dec4e49"
+    },
+    "position": "Python Developer (Intranet Team)",
+    "url": "https://hh.ru/vacancy/52038127?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed5cafcddbe6dec4e4c"
+    },
+    "position": "Аналитик данных",
+    "url": "https://hh.ru/vacancy/48277000?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 150000,
+    "salary_max": "",
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed5cafcddbe6dec4e4f"
+    },
+    "position": "Python developer",
+    "url": "https://hh.ru/vacancy/49991447?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 180000,
+    "salary_max": 280000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed5cafcddbe6dec4e52"
+    },
+    "position": "Python разработчик",
+    "url": "https://hh.ru/vacancy/52009663?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 100000,
+    "salary_max": 300000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed5cafcddbe6dec4e55"
+    },
+    "position": "Аналитик данных",
+    "url": "https://hh.ru/vacancy/51703180?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed5cafcddbe6dec4e58"
+    },
+    "position": "Программист Python Middle/Senior/Lead",
+    "url": "https://hh.ru/vacancy/50890819?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 200000,
+    "salary_max": "",
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed6cafcddbe6dec4e5b"
+    },
+    "position": "Middle / Senior Python Developer (backend)",
+    "url": "https://hh.ru/vacancy/51857399?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 130000,
+    "salary_max": 250000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed6cafcddbe6dec4e5e"
+    },
+    "position": "Data Scientist",
+    "url": "https://hh.ru/vacancy/52112037?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed6cafcddbe6dec4e61"
+    },
+    "position": "ML research engineer",
+    "url": "https://hh.ru/vacancy/51705175?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 150000,
+    "salary_max": "",
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed6cafcddbe6dec4e64"
+    },
+    "position": "Junior Data scientist",
+    "url": "https://hh.ru/vacancy/51632135?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 100000,
+    "salary_max": 150000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed6cafcddbe6dec4e67"
+    },
+    "position": "Team Lead Python",
+    "url": "https://hh.ru/vacancy/51041069?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": 400000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed6cafcddbe6dec4e6a"
+    },
+    "position": "Python intern (Deep Learning)",
+    "url": "https://hh.ru/vacancy/48972778?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed6cafcddbe6dec4e6d"
+    },
+    "position": "Ведущий разработчик Machine Learning",
+    "url": "https://hh.ru/vacancy/51187368?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 200000,
+    "salary_max": 250000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed6cafcddbe6dec4e70"
+    },
+    "position": "Аналитик второй линии поддержки",
+    "url": "https://hh.ru/vacancy/50968960?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 65000,
+    "salary_max": "",
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed6cafcddbe6dec4e73"
+    },
+    "position": "Python back-end developer / ML engineer",
+    "url": "https://hh.ru/vacancy/50342903?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed6cafcddbe6dec4e76"
+    },
+    "position": "Data scientist / Product analyst",
+    "url": "https://hh.ru/vacancy/48276976?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 200000,
+    "salary_max": 250000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed6cafcddbe6dec4e79"
+    },
+    "position": "BI Engineer (Tableau)",
+    "url": "https://hh.ru/vacancy/47882723?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 250000,
+    "salary_max": "",
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed6cafcddbe6dec4e7c"
+    },
+    "position": "Python разработчик",
+    "url": "https://hh.ru/vacancy/50826551?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed6cafcddbe6dec4e7f"
+    },
+    "position": "Middle/Senior Data Scientist",
+    "url": "https://hh.ru/vacancy/50467275?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 200000,
+    "salary_max": "",
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed6cafcddbe6dec4e82"
+    },
+    "position": "Backend разработчик Python",
+    "url": "https://hh.ru/vacancy/50955279?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed6cafcddbe6dec4e85"
+    },
+    "position": "Python Developer",
+    "url": "https://hh.ru/vacancy/51950387?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": 6000,
+    "currency": "USD"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed6cafcddbe6dec4e88"
+    },
+    "position": "Python developer (Ds направление)",
+    "url": "https://hh.ru/vacancy/45811421?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed7cafcddbe6dec4e8b"
+    },
+    "position": "Machine Learning Engineer (Remote)",
+    "url": "https://hh.ru/vacancy/51096712?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 200000,
+    "salary_max": 390000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed7cafcddbe6dec4e8e"
+    },
+    "position": "Python разработчик",
+    "url": "https://hh.ru/vacancy/51347062?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed7cafcddbe6dec4e91"
+    },
+    "position": "Разработчик Python (backend)",
+    "url": "https://hh.ru/vacancy/52103236?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed7cafcddbe6dec4e94"
+    },
+    "position": "Разработчик ботов (Python & JS)",
+    "url": "https://hh.ru/vacancy/50362214?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed7cafcddbe6dec4e97"
+    },
+    "position": "Python-разработчик",
+    "url": "https://hh.ru/vacancy/49219237?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed7cafcddbe6dec4e9a"
+    },
+    "position": "Senior Python Developer/Web-services",
+    "url": "https://hh.ru/vacancy/52112356?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 250000,
+    "salary_max": 350000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed7cafcddbe6dec4e9d"
+    },
+    "position": "Доцент (машинное обучение, программирование, информационные технологии, математика)",
+    "url": "https://hh.ru/vacancy/52011927?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 100000,
+    "salary_max": 250000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed7cafcddbe6dec4ea0"
+    },
+    "position": "Специалист по ИБ (Python)",
+    "url": "https://hh.ru/vacancy/52120345?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed7cafcddbe6dec4ea3"
+    },
+    "position": "Machine Learning Developer (junior)",
+    "url": "https://hh.ru/vacancy/51472434?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed7cafcddbe6dec4ea6"
+    },
+    "position": "Product Analyst",
+    "url": "https://hh.ru/vacancy/51042194?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 250000,
+    "salary_max": "",
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed7cafcddbe6dec4ea9"
+    },
+    "position": "Разработчик Python",
+    "url": "https://hh.ru/vacancy/51001874?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed7cafcddbe6dec4eac"
+    },
+    "position": "Golang разработчик",
+    "url": "https://hh.ru/vacancy/50971697?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 2000,
+    "salary_max": 5000,
+    "currency": "USD"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed7cafcddbe6dec4eaf"
+    },
+    "position": "Golang/Python-разработчик",
+    "url": "https://hh.ru/vacancy/50948848?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed7cafcddbe6dec4eb2"
+    },
+    "position": "PostgreSQL Senior Development Specialist",
+    "url": "https://hh.ru/vacancy/49667270?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 300000,
+    "salary_max": 400000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed7cafcddbe6dec4eb5"
+    },
+    "position": "Младший специалист (аналитик/разработчик)",
+    "url": "https://hh.ru/vacancy/52122871?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed7cafcddbe6dec4eb8"
+    },
+    "position": "Python разработчик",
+    "url": "https://hh.ru/vacancy/48570014?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed8cafcddbe6dec4ebb"
+    },
+    "position": "Аналитик / Data Analyst",
+    "url": "https://hh.ru/vacancy/51987512?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed8cafcddbe6dec4ebe"
+    },
+    "position": "Разработчик/аналитик Python",
+    "url": "https://hh.ru/vacancy/52067399?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed8cafcddbe6dec4ec1"
+    },
+    "position": "Python-разработчик в Цифровые поверхности Салют (Речевая аналитика)",
+    "url": "https://hh.ru/vacancy/51980890?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 150000,
+    "salary_max": 250000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed8cafcddbe6dec4ec4"
+    },
+    "position": "Data analyst / Дата аналитик",
+    "url": "https://hh.ru/vacancy/51113216?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": 270000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed8cafcddbe6dec4ec7"
+    },
+    "position": "Research Developer (Python)",
+    "url": "https://hh.ru/vacancy/52086908?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed8cafcddbe6dec4eca"
+    },
+    "position": "Младший количественный аналитик",
+    "url": "https://hh.ru/vacancy/51935007?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed8cafcddbe6dec4ecd"
+    },
+    "position": "Data Engineer / Дата инженер / Инженер данных",
+    "url": "https://hh.ru/vacancy/52080317?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 90000,
+    "salary_max": 150000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed8cafcddbe6dec4ed0"
+    },
+    "position": "Бизнес-аналитик со знанием Python",
+    "url": "https://hh.ru/vacancy/52112970?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed8cafcddbe6dec4ed3"
+    },
+    "position": "Data Engineer",
+    "url": "https://hh.ru/vacancy/51056512?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 150000,
+    "salary_max": 250000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed8cafcddbe6dec4ed6"
+    },
+    "position": "Python разработчик (DomClick)",
+    "url": "https://hh.ru/vacancy/51999170?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed8cafcddbe6dec4ed9"
+    },
+    "position": "Программист Python (удаленно)",
+    "url": "https://hh.ru/vacancy/45864751?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed9cafcddbe6dec4edc"
+    },
+    "position": "Разработчик Python в Яндекс.Q",
+    "url": "https://hh.ru/vacancy/50625789?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed9cafcddbe6dec4edf"
+    },
+    "position": "Старший Python-разработчик (Маруся)",
+    "url": "https://hh.ru/vacancy/52039447?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed9cafcddbe6dec4ee2"
+    },
+    "position": "Python разработчик",
+    "url": "https://hh.ru/vacancy/52067049?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed9cafcddbe6dec4ee5"
+    },
+    "position": "Python developer",
+    "url": "https://hh.ru/vacancy/45559087?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": 170000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed9cafcddbe6dec4ee8"
+    },
+    "position": "Python developer",
+    "url": "https://hh.ru/vacancy/52068555?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed9cafcddbe6dec4eeb"
+    },
+    "position": "Senior Python Backend Developer, команда NLP (MTS AI)",
+    "url": "https://hh.ru/vacancy/49928175?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 250000,
+    "salary_max": "",
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed9cafcddbe6dec4eee"
+    },
+    "position": "Middle backend-разработчик Python",
+    "url": "https://hh.ru/vacancy/51847270?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed9cafcddbe6dec4ef1"
+    },
+    "position": "Middle/Senior Machine Learning Engineer / Data Scientist",
+    "url": "https://hh.ru/vacancy/51263130?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 200000,
+    "salary_max": "",
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed9cafcddbe6dec4ef4"
+    },
+    "position": "Backend-разработчик (Python)",
+    "url": "https://hh.ru/vacancy/52079074?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 200000,
+    "salary_max": 250000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed9cafcddbe6dec4ef7"
+    },
+    "position": "Python developer (Remote)",
+    "url": "https://hh.ru/vacancy/51953473?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 200000,
+    "salary_max": 350000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed9cafcddbe6dec4efa"
+    },
+    "position": "Инженер-программист (Python)",
+    "url": "https://hh.ru/vacancy/51848142?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed9cafcddbe6dec4efd"
+    },
+    "position": "Python developer",
+    "url": "https://hh.ru/vacancy/51815388?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 2200,
+    "salary_max": 4200,
+    "currency": "USD"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed9cafcddbe6dec4f00"
+    },
+    "position": "Инженер-Программист микроконтроллеров на С/С++, Embedded разработчик",
+    "url": "https://hh.ru/vacancy/52010038?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 90000,
+    "salary_max": "",
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed9cafcddbe6dec4f03"
+    },
+    "position": "Junior Data-аналитик / Аналитик данных / Data Analyst",
+    "url": "https://hh.ru/vacancy/50410081?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed9cafcddbe6dec4f06"
+    },
+    "position": "Middle Python developer (релокация в Сочи)",
+    "url": "https://hh.ru/vacancy/48698686?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 150000,
+    "salary_max": "",
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9ed9cafcddbe6dec4f09"
+    },
+    "position": "Big Data Developer",
+    "url": "https://hh.ru/vacancy/51933513?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 225000,
+    "salary_max": 350000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9edacafcddbe6dec4f0c"
+    },
+    "position": "ML Engineer",
+    "url": "https://hh.ru/vacancy/50938985?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 200000,
+    "salary_max": 300000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9edacafcddbe6dec4f0f"
+    },
+    "position": "С++ / Python developer (Simulator)",
+    "url": "https://hh.ru/vacancy/51968534?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9edacafcddbe6dec4f12"
+    },
+    "position": "Python Web Developer (full stack)",
+    "url": "https://hh.ru/vacancy/49150518?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9edacafcddbe6dec4f15"
+    },
+    "position": "Data Engineer",
+    "url": "https://hh.ru/vacancy/49255493?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 3000,
+    "salary_max": "",
+    "currency": "USD"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9edacafcddbe6dec4f18"
+    },
+    "position": "Python разработчик (Pre-sale проекты)",
+    "url": "https://hh.ru/vacancy/52002358?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9edacafcddbe6dec4f1b"
+    },
+    "position": "Senior Python разработчик",
+    "url": "https://hh.ru/vacancy/52080556?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": 5500,
+    "currency": "USD"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9edacafcddbe6dec4f1e"
+    },
+    "position": "Integration developer (Python)/ удаленно",
+    "url": "https://hh.ru/vacancy/50685853?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9edacafcddbe6dec4f21"
+    },
+    "position": "Data Analyst",
+    "url": "https://hh.ru/vacancy/51329904?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 100000,
+    "salary_max": 200000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9edacafcddbe6dec4f24"
+    },
+    "position": "Python Developer",
+    "url": "https://hh.ru/vacancy/51992244?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9edacafcddbe6dec4f27"
+    },
+    "position": "Data Engineer",
+    "url": "https://hh.ru/vacancy/50674842?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 200000,
+    "salary_max": 350000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9edacafcddbe6dec4f2a"
+    },
+    "position": "Data Science / Аналитик",
+    "url": "https://hh.ru/vacancy/51994559?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 120000,
+    "salary_max": "",
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9edacafcddbe6dec4f2d"
+    },
+    "position": "ML Engineer",
+    "url": "https://hh.ru/vacancy/52063991?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9edacafcddbe6dec4f30"
+    },
+    "position": "Data Scientist",
+    "url": "https://hh.ru/vacancy/51955855?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9edacafcddbe6dec4f33"
+    },
+    "position": "Data Engineer (Middle)",
+    "url": "https://hh.ru/vacancy/51361120?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 170000,
+    "salary_max": 350000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9edacafcddbe6dec4f36"
+    },
+    "position": "Программирующий математик",
+    "url": "https://hh.ru/vacancy/51109778?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9edacafcddbe6dec4f39"
+    },
+    "position": "Python developer",
+    "url": "https://hh.ru/vacancy/52034183?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9edacafcddbe6dec4f3c"
+    },
+    "position": "Middle Python разработчик",
+    "url": "https://hh.ru/vacancy/51497320?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9edbcafcddbe6dec4f3f"
+    },
+    "position": "Python Linux developer (remote)",
+    "url": "https://hh.ru/vacancy/50895660?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": 5000,
+    "currency": "USD"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9edbcafcddbe6dec4f42"
+    },
+    "position": "Младший аналитик web-угроз Threat Intelligence",
+    "url": "https://hh.ru/vacancy/50753209?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9edbcafcddbe6dec4f45"
+    },
+    "position": "Data Engineer (Senior)",
+    "url": "https://hh.ru/vacancy/51361166?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 350000,
+    "salary_max": 500000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9edbcafcddbe6dec4f48"
+    },
+    "position": "Backend разработчик Python, Flask (Middle+, Удалённо)",
+    "url": "https://hh.ru/vacancy/50885320?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 160000,
+    "salary_max": 250000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9edbcafcddbe6dec4f4b"
+    },
+    "position": "Python-разработчик (Витрина)",
+    "url": "https://hh.ru/vacancy/47448086?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9edbcafcddbe6dec4f4e"
+    },
+    "position": "Разработчик Python (Middle, Senior)",
+    "url": "https://hh.ru/vacancy/50752070?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9edbcafcddbe6dec4f51"
+    },
+    "position": "Python developer (computer vision backend)",
+    "url": "https://hh.ru/vacancy/49342079?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 170000,
+    "salary_max": 250000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9edbcafcddbe6dec4f54"
+    },
+    "position": "Программист Python",
+    "url": "https://hh.ru/vacancy/52048045?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9edbcafcddbe6dec4f57"
+    },
+    "position": "Разработчик Python",
+    "url": "https://hh.ru/vacancy/47381562?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9edbcafcddbe6dec4f5a"
+    },
+    "position": "Инженер-программист (Frontend-engineer, Junior)",
+    "url": "https://hh.ru/vacancy/51354613?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 100000,
+    "salary_max": 130000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9edbcafcddbe6dec4f5d"
+    },
+    "position": "Старший разработчик Python / MLOPS-инженер",
+    "url": "https://hh.ru/vacancy/50853687?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9edbcafcddbe6dec4f60"
+    },
+    "position": "Software Engineer",
+    "url": "https://hh.ru/vacancy/51179621?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 250000,
+    "salary_max": 350000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9edbcafcddbe6dec4f63"
+    },
+    "position": "Middle Python Developer",
+    "url": "https://hh.ru/vacancy/51062817?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 180000,
+    "salary_max": "",
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9edbcafcddbe6dec4f66"
+    },
+    "position": "Аналитик данных/Data Scientist",
+    "url": "https://hh.ru/vacancy/51982764?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9edbcafcddbe6dec4f69"
+    },
+    "position": "Инженер по автоматизации тестирования Python, Платформа / Поиск",
+    "url": "https://hh.ru/vacancy/50880902?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9edccafcddbe6dec4f6c"
+    },
+    "position": "Python backend разработчик (Django)",
+    "url": "https://hh.ru/vacancy/49649299?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9edccafcddbe6dec4f6f"
+    },
+    "position": "Backend Python разработчик",
+    "url": "https://hh.ru/vacancy/50713630?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9edccafcddbe6dec4f72"
+    },
+    "position": "Разработчик Python, VBA, Google Apps",
+    "url": "https://hh.ru/vacancy/50314472?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9edccafcddbe6dec4f75"
+    },
+    "position": "Python программист (Наставник онлайн-курса по Python)",
+    "url": "https://hh.ru/vacancy/51707320?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": 75000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9edccafcddbe6dec4f78"
+    },
+    "position": "Senior Data engineer",
+    "url": "https://hh.ru/vacancy/50177933?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 300000,
+    "salary_max": "",
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9edccafcddbe6dec4f7b"
+    },
+    "position": "Python разработчик",
+    "url": "https://hh.ru/vacancy/51954536?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9edccafcddbe6dec4f7e"
+    },
+    "position": "Разработчик Python 3.6+",
+    "url": "https://hh.ru/vacancy/51953522?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9edccafcddbe6dec4f81"
+    },
+    "position": "Middle Python Developer",
+    "url": "https://hh.ru/vacancy/51623240?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9edccafcddbe6dec4f84"
+    },
+    "position": "Middle Python developer",
+    "url": "https://hh.ru/vacancy/48176706?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9edccafcddbe6dec4f87"
+    },
+    "position": "Разработчик Python (middle\\senior)",
+    "url": "https://hh.ru/vacancy/49549773?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9edccafcddbe6dec4f8a"
+    },
+    "position": "Специалист отдела разработки систем машинного обучения и анализа данных",
+    "url": "https://hh.ru/vacancy/52083840?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9edccafcddbe6dec4f8d"
+    },
+    "position": "Data scientist / ML разработчик",
+    "url": "https://hh.ru/vacancy/51081768?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9edccafcddbe6dec4f90"
+    },
+    "position": "Разработчик python (Middle/Senior)",
+    "url": "https://hh.ru/vacancy/51608502?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9eddcafcddbe6dec4f93"
+    },
+    "position": "NLP Researcher",
+    "url": "https://hh.ru/vacancy/49383353?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 350000,
+    "salary_max": "",
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9eddcafcddbe6dec4f96"
+    },
+    "position": "Middle/Senior Python Developer",
+    "url": "https://hh.ru/vacancy/51960590?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 220000,
+    "salary_max": 270000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9eddcafcddbe6dec4f99"
+    },
+    "position": "Тестировщик ПО",
+    "url": "https://hh.ru/vacancy/51724752?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": 100000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9eddcafcddbe6dec4f9c"
+    },
+    "position": "Python Developer",
+    "url": "https://hh.ru/vacancy/50763106?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9eddcafcddbe6dec4f9f"
+    },
+    "position": "Team Lead Python, удаленно",
+    "url": "https://hh.ru/vacancy/51954059?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 300000,
+    "salary_max": 500000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9eddcafcddbe6dec4fa2"
+    },
+    "position": "Python Developer",
+    "url": "https://hh.ru/vacancy/49929604?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 3500,
+    "salary_max": "",
+    "currency": "USD"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9eddcafcddbe6dec4fa5"
+    },
+    "position": "Python-разработчик в команду корпоративных рисков",
+    "url": "https://hh.ru/vacancy/52087148?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9eddcafcddbe6dec4fa8"
+    },
+    "position": "Python Developer (BestEx team)",
+    "url": "https://hh.ru/vacancy/50674752?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 175000,
+    "salary_max": 300000,
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9eddcafcddbe6dec4fab"
+    },
+    "position": "Team lead C++",
+    "url": "https://hh.ru/vacancy/51907646?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 300000,
+    "salary_max": "",
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9eddcafcddbe6dec4fae"
+    },
+    "position": "Python developer (VK)",
+    "url": "https://hh.ru/vacancy/50419193?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9eddcafcddbe6dec4fb1"
+    },
+    "position": "Python Developer",
+    "url": "https://hh.ru/vacancy/40612238?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9eddcafcddbe6dec4fb4"
+    },
+    "position": "MLOps Engineer",
+    "url": "https://hh.ru/vacancy/51081715?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": 320000,
+    "salary_max": "",
+    "currency": "руб"
+  },
+  {
+    "_id": {
+      "$oid": "61fd9eddcafcddbe6dec4fb7"
+    },
+    "position": "Разработчик Python (middle/senior)",
+    "url": "https://hh.ru/vacancy/51722524?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9eddcafcddbe6dec4fba"
+    },
+    "position": "Senior python developer / Data engineer",
+    "url": "https://hh.ru/vacancy/52084296?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  },
+  {
+    "_id": {
+      "$oid": "61fd9eddcafcddbe6dec4fbd"
+    },
+    "position": "Middle Python developer",
+    "url": "https://hh.ru/vacancy/52112419?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary_min": "",
+    "salary_max": "",
+    "currency": ""
+  }
+]
