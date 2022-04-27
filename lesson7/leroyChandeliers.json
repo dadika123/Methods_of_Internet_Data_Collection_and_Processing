@@ -1,0 +1,2238 @@
+[
+  {
+    "_id": {
+      "$oid": "6203b50da83a9cfed1d302eb"
+    },
+    "name": "Светильник настенно-потолочный Inspire Amber 6 ламп 18 м² цвет черный",
+    "price": 3735,
+    "url": "https://leroymerlin.ru/product/svetilnik-nastenno-potolochnyy-inspire-amber-6-lamp-18-m-cvet-chernyy-85113378/",
+    "photos": [
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/85113378.jpg",
+        "path": "leroymerlin/lyustry/Светильник настенно-потолочный Inspire Amber 6 ламп 18 м² цвет черный/0.jpg",
+        "checksum": "f1663ab8897a62368008ea1c87ed93e4",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/85113378_01.jpg",
+        "path": "leroymerlin/lyustry/Светильник настенно-потолочный Inspire Amber 6 ламп 18 м² цвет черный/1.jpg",
+        "checksum": "c30d46661e0060c293ec1e247c0258e4",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/85113378_02.jpg",
+        "path": "leroymerlin/lyustry/Светильник настенно-потолочный Inspire Amber 6 ламп 18 м² цвет черный/2.jpg",
+        "checksum": "3f93fff09cc4bf7fc18d0710985634ae",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/85113378_03.jpg",
+        "path": "leroymerlin/lyustry/Светильник настенно-потолочный Inspire Amber 6 ламп 18 м² цвет черный/3.jpg",
+        "checksum": "9a6118bbffaff06b3720ee464950ccaa",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/85113378_04.jpg",
+        "path": "leroymerlin/lyustry/Светильник настенно-потолочный Inspire Amber 6 ламп 18 м² цвет черный/4.jpg",
+        "checksum": "a529adb9a58f38efab7a4f4f8fc52182",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/85113378_05.jpg",
+        "path": "leroymerlin/lyustry/Светильник настенно-потолочный Inspire Amber 6 ламп 18 м² цвет черный/5.jpg",
+        "checksum": "e051d33ab3a07ca7e8cc048ca570d110",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/85113378_06.jpg",
+        "path": "leroymerlin/lyustry/Светильник настенно-потолочный Inspire Amber 6 ламп 18 м² цвет черный/6.jpg",
+        "checksum": "ecf0f1f51b29e3e5bbfe1ab762b91e09",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/85113378_drw.jpg",
+        "path": "leroymerlin/lyustry/Светильник настенно-потолочный Inspire Amber 6 ламп 18 м² цвет черный/7.jpg",
+        "checksum": "f2a45e62c8965b347ddf7c82584fafa7",
+        "status": "downloaded"
+      }
+    ],
+    "properties": {
+      "Максимальная площадь освещения (в м²)": 18,
+      "Коллекция для публикации": "Amber",
+      "Диаметр (см)": 52,
+      "Габариты (ДхШхВ), см": [
+        52,
+        36,
+        23
+      ],
+      "Длина (см)": 52,
+      "Ширина (см)": 36,
+      "Высота (см)": 23,
+      "Вес, кг": 2.23,
+      "Напряжение (В)": [
+        110,
+        240
+      ],
+      "Тип цоколя": "E27",
+      "Количество лампочек": 6,
+      "Совместимый тип лампы": [
+        "Люминесцентный",
+        "Накаливания",
+        "Светодиодный (LED)",
+        "Филаментный (LED)"
+      ],
+      "Форма подходящей лампочки": [
+        "Свеча",
+        "Груша",
+        "Шар малый",
+        "Спираль"
+      ],
+      "Максимально допустимая мощность лампы (Вт)": 60,
+      "Цветовая палитра": "Черный",
+      "Основной материал": "Стекло",
+      "Материал конструкции": "Железо",
+      "Материал плафонов/абажура": "Стекло",
+      "Стиль": "Нео-классика",
+      "Функции": false,
+      "Особенности продукта": false,
+      "Степень защиты от пыли и воды (IP)": "IP20",
+      "Марка": "INSPIRE",
+      "Страна производства": "Китай",
+      "Гарантия (лет)": 5,
+      "Подходит для низкого потолка (до 2,5 м)": true
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6203b511a83a9cfed1d302ee"
+    },
+    "name": "Люстра потолочная Жанр 5xE27x60 Вт 15 м² цвет хром",
+    "price": 1758,
+    "url": "https://leroymerlin.ru/product/lyustra-potolochnaya-zhanr-5xe27x60-vt-15-m-cvet-hrom-82055310/",
+    "photos": [
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/82055310.jpg",
+        "path": "leroymerlin/lyustry/Люстра потолочная Жанр 5xE27x60 Вт 15 м² цвет хром/0.jpg",
+        "checksum": "713c322238a8ebf3fbf493053c940845",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/82055310_01.jpg",
+        "path": "leroymerlin/lyustry/Люстра потолочная Жанр 5xE27x60 Вт 15 м² цвет хром/1.jpg",
+        "checksum": "40546d30ec3209ebe47c51291cfc5957",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/82055310_02.jpg",
+        "path": "leroymerlin/lyustry/Люстра потолочная Жанр 5xE27x60 Вт 15 м² цвет хром/2.jpg",
+        "checksum": "9f20ab5777039700993a96f7c50d7934",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/82055310_03.jpg",
+        "path": "leroymerlin/lyustry/Люстра потолочная Жанр 5xE27x60 Вт 15 м² цвет хром/3.jpg",
+        "checksum": "0142b37767ef98384edf9eb9a8a8da56",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/82055310_i.jpg",
+        "path": "leroymerlin/lyustry/Люстра потолочная Жанр 5xE27x60 Вт 15 м² цвет хром/4.jpg",
+        "checksum": "93f3bf9d280db111933cbedc88ac497b",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/82055310_drw.jpg",
+        "path": "leroymerlin/lyustry/Люстра потолочная Жанр 5xE27x60 Вт 15 м² цвет хром/5.jpg",
+        "checksum": "ccfcbe6f2a2be163490f8465035970f8",
+        "status": "downloaded"
+      }
+    ],
+    "properties": {
+      "Максимальная площадь освещения (в м²)": 25.0,
+      "Коллекция для публикации": "Жанр",
+      "Тип крепления": "Планка",
+      "Минимальный диаметр отверстия в потолке (в мм)": 10.0,
+      "Диаметр потолочной чашки (см)": 14.5,
+      "Габариты (ДхШхВ), см": [
+        60.0,
+        60.0,
+        17.0
+      ],
+      "Высота (см)": 17.0,
+      "Подходит для низкого потолка (до 2,5 м)": true,
+      "Ширина (см)": 60.0,
+      "Длина (см)": 60.0,
+      "Диаметр (см)": 60.0,
+      "Вес, кг": 0.89,
+      "Напряжение (В)": 220,
+      "Тип цоколя": "E27",
+      "Совместимый тип лампы": "Светодиодный (LED)",
+      "Количество лампочек": 5,
+      "Форма подходящей лампочки": [
+        "Шар",
+        "Свеча"
+      ],
+      "Максимально допустимая мощность лампы (Вт)": 60,
+      "Количество плафонов или абажуров": 5,
+      "Направление плафона или абажура": "Вниз",
+      "Регулировка направления плафона или абажура": false,
+      "Цвет плафонов/абажура": "Белый",
+      "Основной материал": "Металл",
+      "Материал конструкции": "Металл",
+      "Цвет основания": "Белый",
+      "Эффект материала основы": "Матовый",
+      "Материал плафонов/абажура": "Пластик",
+      "Стиль": "Нео-классика",
+      "Декор": false,
+      "Назначение": [
+        "Спальня",
+        "Кухня"
+      ],
+      "Подходит для натяжного потолка": true,
+      "Особенности продукта": false,
+      "Функции": false,
+      "Управление устройством": "Настенный переключатель",
+      "Степень защиты от пыли и воды (IP)": "IP20",
+      "Гарантия (лет)": 0.5,
+      "Марка": "КЛЮЧНИК",
+      "Модель продукта": false,
+      "Страна производства": "Китай",
+      "Состав комплекта": [
+        "Плафоны",
+        "потолочная чаша",
+        "рожки",
+        "инструкция"
+      ]
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6203b514a83a9cfed1d302f1"
+    },
+    "name": "Люстра потолочная светодиодная Natali Kovaltseva 120W LED LAMPS 81078",
+    "price": 2399,
+    "url": "https://leroymerlin.ru/product/lyustra-potolochnaya-svetodiodnaya-natali-kovaltseva-120w-led-lamps-81078-93737867/",
+    "photos": [
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/93737867.jpg",
+        "path": "leroymerlin/lyustry/Люстра потолочная светодиодная Natali Kovaltseva 120W LED LAMPS 81078/0.jpg",
+        "checksum": "1bab0670d4bdc4f78c862fc2fb0bddf2",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/93737867_01.jpg",
+        "path": "leroymerlin/lyustry/Люстра потолочная светодиодная Natali Kovaltseva 120W LED LAMPS 81078/1.jpg",
+        "checksum": "3090e142cf80e01715764e80e7a2f239",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/93737867_02.jpg",
+        "path": "leroymerlin/lyustry/Люстра потолочная светодиодная Natali Kovaltseva 120W LED LAMPS 81078/2.jpg",
+        "checksum": "0b3454df33e69dbe45b0b5b63cad9b2e",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/93737867_03.jpg",
+        "path": "leroymerlin/lyustry/Люстра потолочная светодиодная Natali Kovaltseva 120W LED LAMPS 81078/3.jpg",
+        "checksum": "9130cb7635d4d7145dea114caeb9120a",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/93737867_04.jpg",
+        "path": "leroymerlin/lyustry/Люстра потолочная светодиодная Natali Kovaltseva 120W LED LAMPS 81078/4.jpg",
+        "checksum": "0085aee628fd2d71362825f223acf3c5",
+        "status": "downloaded"
+      }
+    ],
+    "properties": {
+      "Максимальная площадь освещения (в м²)": 20,
+      "Тип крепления": "На винтах",
+      "Подходит для низкого потолка (до 2,5 м)": true,
+      "Ширина (см)": 50,
+      "Длина (см)": 50,
+      "Вес, кг": 1.6,
+      "Фактическая потребляемая мощность (Вт)": 120,
+      "Температура цвета (в K)": 2700,
+      "Направление плафона или абажура": "В стороны",
+      "Цвет плафонов/абажура": "Белый",
+      "Основной материал": "Металл",
+      "Материал конструкции": "Металл",
+      "Материал плафонов/абажура": "Пластик",
+      "Особенности продукта": "Режим ночника",
+      "Функции": [
+        "Таймер",
+        "Ночник",
+        "Управление яркостью освещения",
+        "Смена режимов работы"
+      ],
+      "Управление устройством": "Смартфон",
+      "Степень защиты от пыли и воды (IP)": "IP20",
+      "Напряжение (В)": 54,
+      "Срок службы (ч)": 25000,
+      "Марка": "NATALI KOVALTSEVA",
+      "Модель продукта": "LED LAMPS 81078",
+      "Гарантия (лет)": 4.0,
+      "Страна производства": "Германия"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6203b518a83a9cfed1d302f6"
+    },
+    "name": "Светильник настенно-потолочный Inspire Amber 6 ламп 18 м² цвет белый",
+    "price": 3735,
+    "url": "https://leroymerlin.ru/product/svetilnik-nastenno-potolochnyy-inspire-amber-6-lamp-18-m-cvet-belyy-85113379/",
+    "photos": [
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/85113379.jpg",
+        "path": "leroymerlin/lyustry/Светильник настенно-потолочный Inspire Amber 6 ламп 18 м² цвет белый/0.jpg",
+        "checksum": "2b485cad4ed3fad59f68a376bc671639",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/85113379_01.jpg",
+        "path": "leroymerlin/lyustry/Светильник настенно-потолочный Inspire Amber 6 ламп 18 м² цвет белый/1.jpg",
+        "checksum": "9a0d8ed2718f123e26f166504e9d2da5",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/85113379_02.jpg",
+        "path": "leroymerlin/lyustry/Светильник настенно-потолочный Inspire Amber 6 ламп 18 м² цвет белый/2.jpg",
+        "checksum": "743ea2a13e2a5e278cc019b9ba8654ab",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/85113379_03.jpg",
+        "path": "leroymerlin/lyustry/Светильник настенно-потолочный Inspire Amber 6 ламп 18 м² цвет белый/3.jpg",
+        "checksum": "22aebe5abe9b22a97c20f7359ad96198",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/85113379_04.jpg",
+        "path": "leroymerlin/lyustry/Светильник настенно-потолочный Inspire Amber 6 ламп 18 м² цвет белый/4.jpg",
+        "checksum": "0187909de50f76eb899fc69b55926497",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/85113379_05.jpg",
+        "path": "leroymerlin/lyustry/Светильник настенно-потолочный Inspire Amber 6 ламп 18 м² цвет белый/5.jpg",
+        "checksum": "739f3f4624201c33348411e1af561c8f",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/85113379_06.jpg",
+        "path": "leroymerlin/lyustry/Светильник настенно-потолочный Inspire Amber 6 ламп 18 м² цвет белый/6.jpg",
+        "checksum": "e54b1b89287174d1f8aa804f35e644f9",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/85113379_drw.jpg",
+        "path": "leroymerlin/lyustry/Светильник настенно-потолочный Inspire Amber 6 ламп 18 м² цвет белый/7.jpg",
+        "checksum": "f4836ffed47b29da85956a1d1712bc62",
+        "status": "downloaded"
+      }
+    ],
+    "properties": {
+      "Максимальная площадь освещения (в м²)": 18,
+      "Коллекция для публикации": "Amber",
+      "Диаметр (см)": 52,
+      "Габариты (ДхШхВ), см": [
+        52,
+        36,
+        23
+      ],
+      "Длина (см)": 52,
+      "Ширина (см)": 36,
+      "Высота (см)": 23,
+      "Вес, кг": 2.19,
+      "Напряжение (В)": [
+        110,
+        240
+      ],
+      "Тип цоколя": "E27",
+      "Количество лампочек": 6,
+      "Совместимый тип лампы": [
+        "Люминесцентный",
+        "Накаливания",
+        "Светодиодный (LED)",
+        "Филаментный (LED)"
+      ],
+      "Форма подходящей лампочки": [
+        "Свеча",
+        "Груша",
+        "Шар малый",
+        "Спираль"
+      ],
+      "Максимально допустимая мощность лампы (Вт)": 60,
+      "Цветовая палитра": "Белый",
+      "Основной материал": "Стекло",
+      "Материал конструкции": "Железо",
+      "Материал плафонов/абажура": "Стекло",
+      "Стиль": "Нео-классика",
+      "Функции": false,
+      "Особенности продукта": false,
+      "Степень защиты от пыли и воды (IP)": "IP20",
+      "Марка": "INSPIRE",
+      "Страна производства": "Китай",
+      "Гарантия (лет)": 5,
+      "Подходит для низкого потолка (до 2,5 м)": true
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6203b51ea83a9cfed1d302f9"
+    },
+    "name": "Люстра потолочная Escada Diana 1113 5 ламп 15 м² цвет хром",
+    "price": 1358,
+    "url": "https://leroymerlin.ru/product/lyustra-potolochnaya-escada-diana-1113-5-lamp-15-m-cvet-hrom-82308488/",
+    "photos": [
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/82308488.jpg",
+        "path": "leroymerlin/lyustry/Люстра потолочная Escada Diana 1113 5 ламп 15 м² цвет хром/0.jpg",
+        "checksum": "5a1360f8068f1a42c4eee59b602c7739",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/82308488_01.jpg",
+        "path": "leroymerlin/lyustry/Люстра потолочная Escada Diana 1113 5 ламп 15 м² цвет хром/1.jpg",
+        "checksum": "5033dbefaad6487ee8ded626181894db",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/82308488_02.jpg",
+        "path": "leroymerlin/lyustry/Люстра потолочная Escada Diana 1113 5 ламп 15 м² цвет хром/2.jpg",
+        "checksum": "5baffe5ca867372d4213bd871e433ab6",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/82308488_03.jpg",
+        "path": "leroymerlin/lyustry/Люстра потолочная Escada Diana 1113 5 ламп 15 м² цвет хром/3.jpg",
+        "checksum": "35832031901fe7b98ba9cb6c840abb16",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/82308488_04.jpg",
+        "path": "leroymerlin/lyustry/Люстра потолочная Escada Diana 1113 5 ламп 15 м² цвет хром/4.jpg",
+        "checksum": "83bc90da116322d6f1d1a287c6762ea7",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/82308488_05.jpg",
+        "path": "leroymerlin/lyustry/Люстра потолочная Escada Diana 1113 5 ламп 15 м² цвет хром/5.jpg",
+        "checksum": "5dca00c756e6b4e0176c49b336b3a34d",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/82308488_06.jpg",
+        "path": "leroymerlin/lyustry/Люстра потолочная Escada Diana 1113 5 ламп 15 м² цвет хром/6.jpg",
+        "checksum": "78faa11245d561dcdca03009ae014f61",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/82308488_07.jpg",
+        "path": "leroymerlin/lyustry/Люстра потолочная Escada Diana 1113 5 ламп 15 м² цвет хром/7.jpg",
+        "checksum": "4eb51ffad84866c2543417c777997055",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/82308488_i.jpg",
+        "path": "leroymerlin/lyustry/Люстра потолочная Escada Diana 1113 5 ламп 15 м² цвет хром/8.jpg",
+        "checksum": "45d5bfa51cce3dbc2538f87a22d4b2f2",
+        "status": "downloaded"
+      }
+    ],
+    "properties": {
+      "Максимальная площадь освещения (в м²)": 15.0,
+      "Коллекция для публикации": "Diana",
+      "Тип крепления": "Планка",
+      "Минимальный диаметр отверстия в потолке (в мм)": 100.0,
+      "Диаметр потолочной чашки (см)": 15.0,
+      "Габариты (ДхШхВ), см": [
+        56.0,
+        56.0,
+        19.0
+      ],
+      "Высота (см)": 19.0,
+      "Подходит для низкого потолка (до 2,5 м)": true,
+      "Ширина (см)": 56.0,
+      "Длина (см)": 56.0,
+      "Диаметр (см)": 55.0,
+      "Вес, кг": 1.71,
+      "Напряжение (В)": 220,
+      "Тип цоколя": "E27",
+      "Совместимый тип лампы": "Накаливания",
+      "Количество лампочек": 5,
+      "Форма подходящей лампочки": "Свеча",
+      "Максимально допустимая мощность лампы (Вт)": 60,
+      "Количество плафонов или абажуров": 5,
+      "Направление плафона или абажура": "Вниз",
+      "Регулировка направления плафона или абажура": false,
+      "Цвет плафонов/абажура": "Белый",
+      "Основной материал": "Металл",
+      "Материал конструкции": "Металл",
+      "Цвет основания": "Хром",
+      "Эффект материала основы": "Глянцевый",
+      "Материал плафонов/абажура": "Стекло",
+      "Стиль": "Нео-классика",
+      "Декор": false,
+      "Назначение": [
+        "Зал",
+        "Детская комната",
+        "Коридор",
+        "Кухня",
+        "Прихожая",
+        "Спальня"
+      ],
+      "Подходит для натяжного потолка": true,
+      "Особенности продукта": false,
+      "Функции": false,
+      "Управление устройством": "Настенный переключатель",
+      "Степень защиты от пыли и воды (IP)": "IP20",
+      "Гарантия (лет)": 2,
+      "Марка": "ESCADA",
+      "Модель продукта": "DIANA",
+      "Страна производства": "Китай",
+      "Состав комплекта": [
+        "Светильник (в разборе)",
+        "паспорт",
+        "комплект крепежа"
+      ]
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6203b522a83a9cfed1d302fe"
+    },
+    "name": "Люстра потолочная «Mekka» 1257/8C, 8хE27х40 Вт, цвет хром",
+    "price": 3288,
+    "url": "https://leroymerlin.ru/product/lyustra-potolochnaya-mekka-1257-8c-81966668/",
+    "photos": [
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/81966668.jpg",
+        "path": "leroymerlin/lyustry/Люстра потолочная _Mekka_ 1257_8C_ 8хE27х40 Вт_ цвет хром/0.jpg",
+        "checksum": "c3263adb1993054d7df8928469773b69",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/81966668_01.jpg",
+        "path": "leroymerlin/lyustry/Люстра потолочная _Mekka_ 1257_8C_ 8хE27х40 Вт_ цвет хром/1.jpg",
+        "checksum": "8fa2148e86a272870876da9a48bb597e",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/81966668_02.jpg",
+        "path": "leroymerlin/lyustry/Люстра потолочная _Mekka_ 1257_8C_ 8хE27х40 Вт_ цвет хром/2.jpg",
+        "checksum": "d5c9909d5cb140650e39e879c452b7e3",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/81966668_03.jpg",
+        "path": "leroymerlin/lyustry/Люстра потолочная _Mekka_ 1257_8C_ 8хE27х40 Вт_ цвет хром/3.jpg",
+        "checksum": "6e35927c3bf91c1cd5d4cbf11ac56841",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/81966668_04.jpg",
+        "path": "leroymerlin/lyustry/Люстра потолочная _Mekka_ 1257_8C_ 8хE27х40 Вт_ цвет хром/4.jpg",
+        "checksum": "32ae31b472aad5ea36c2816dc874ce5a",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/81966668_05.jpg",
+        "path": "leroymerlin/lyustry/Люстра потолочная _Mekka_ 1257_8C_ 8хE27х40 Вт_ цвет хром/5.jpg",
+        "checksum": "b90762a8c6069400857feaddf1acaf25",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/81966668_06.jpg",
+        "path": "leroymerlin/lyustry/Люстра потолочная _Mekka_ 1257_8C_ 8хE27х40 Вт_ цвет хром/6.jpg",
+        "checksum": "9c1efc5102ca69b2608340a4f4c4a180",
+        "status": "downloaded"
+      }
+    ],
+    "properties": {
+      "Максимальная площадь освещения (в м²)": 40.0,
+      "Коллекция для публикации": "Mekka",
+      "Тип крепления": "Планка",
+      "Минимальный диаметр отверстия в потолке (в мм)": 50.0,
+      "Диаметр потолочной чашки (см)": 17.0,
+      "Габариты (ДхШхВ), см": [
+        68.0,
+        68.0,
+        28.0
+      ],
+      "Высота (см)": 28.0,
+      "Подходит для низкого потолка (до 2,5 м)": true,
+      "Ширина (см)": 68.0,
+      "Длина (см)": 68.0,
+      "Вес, кг": 3.073,
+      "Напряжение (В)": 220,
+      "Тип цоколя": "E27",
+      "Совместимый тип лампы": [
+        "Галогенный",
+        "Накаливания",
+        "Светодиодный (LED)"
+      ],
+      "Количество лампочек": 8,
+      "Форма подходящей лампочки": [
+        "Шар",
+        "Свеча",
+        "Груша",
+        "Спираль"
+      ],
+      "Максимально допустимая мощность лампы (Вт)": 40,
+      "Количество плафонов или абажуров": 8,
+      "Направление плафона или абажура": "Вниз",
+      "Регулировка направления плафона или абажура": false,
+      "Цвет плафонов/абажура": "Белый",
+      "Основной материал": "Металл",
+      "Материал конструкции": "Металл",
+      "Цвет основания": "Белый",
+      "Эффект материала основы": "Перламутровый",
+      "Материал плафонов/абажура": "Стекло",
+      "Стиль": "Дизайнерский",
+      "Декор": "Декоративный",
+      "Назначение": [
+        "Зал",
+        "Спальня",
+        "Прихожая",
+        "Кухня"
+      ],
+      "Подходит для натяжного потолка": true,
+      "Особенности продукта": false,
+      "Функции": false,
+      "Управление устройством": "Настенный переключатель",
+      "Степень защиты от пыли и воды (IP)": "IP20",
+      "Гарантия (лет)": 2,
+      "Марка": "JLIGHT",
+      "Модель продукта": "1257/8C",
+      "Страна производства": "Китай",
+      "Состав комплекта": [
+        "светильник",
+        "инструкция",
+        "упаковка"
+      ]
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6203b527a83a9cfed1d30301"
+    },
+    "name": "Потолочная люстра Ritter Rolo с пультом управления, 17 м², регулируемый белый свет, цвет белый",
+    "price": 2588,
+    "url": "https://leroymerlin.ru/product/potolochnaya-lyustra-ritter-rolo-s-pultom-upravleniya-84856722/",
+    "photos": [
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/84856722.jpg",
+        "path": "leroymerlin/lyustry/Потолочная люстра Ritter Rolo с пультом управления_ 17 м²_ регулируемый белый свет_ цвет белый/0.jpg",
+        "checksum": "cd3243b2b769f2aff6be5ca66161b503",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/84856722_01.jpg",
+        "path": "leroymerlin/lyustry/Потолочная люстра Ritter Rolo с пультом управления_ 17 м²_ регулируемый белый свет_ цвет белый/1.jpg",
+        "checksum": "6588d087a8acb9f71d33c47015d67a3a",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/84856722_02.jpg",
+        "path": "leroymerlin/lyustry/Потолочная люстра Ritter Rolo с пультом управления_ 17 м²_ регулируемый белый свет_ цвет белый/2.jpg",
+        "checksum": "9b19a63e9df09da679b4c6c370eb7eff",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/84856722_03.jpg",
+        "path": "leroymerlin/lyustry/Потолочная люстра Ritter Rolo с пультом управления_ 17 м²_ регулируемый белый свет_ цвет белый/3.jpg",
+        "checksum": "700d8a3292cb40f73c4bc8050cf3cad5",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/84856722_04.jpg",
+        "path": "leroymerlin/lyustry/Потолочная люстра Ritter Rolo с пультом управления_ 17 м²_ регулируемый белый свет_ цвет белый/4.jpg",
+        "checksum": "adf8f06db6da0a2837483bc7abcd0f5b",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/84856722_05.jpg",
+        "path": "leroymerlin/lyustry/Потолочная люстра Ritter Rolo с пультом управления_ 17 м²_ регулируемый белый свет_ цвет белый/5.jpg",
+        "checksum": "2afd13da9a5dbac5bcac7eb9a6bf3535",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/84856722_06.jpg",
+        "path": "leroymerlin/lyustry/Потолочная люстра Ritter Rolo с пультом управления_ 17 м²_ регулируемый белый свет_ цвет белый/6.jpg",
+        "checksum": "298b053fee07c9924d0192af6fc5aa5a",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/84856722_07.jpg",
+        "path": "leroymerlin/lyustry/Потолочная люстра Ritter Rolo с пультом управления_ 17 м²_ регулируемый белый свет_ цвет белый/7.jpg",
+        "checksum": "f9ebc3ee7baab3dcc607c43c2f7e4917",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/84856722_08.jpg",
+        "path": "leroymerlin/lyustry/Потолочная люстра Ritter Rolo с пультом управления_ 17 м²_ регулируемый белый свет_ цвет белый/8.jpg",
+        "checksum": "1f04276c6adada1f98dbfcce4ddab813",
+        "status": "downloaded"
+      }
+    ],
+    "properties": {
+      "Максимальная площадь освещения (в м²)": 17.0,
+      "Коллекция для публикации": "Rolo",
+      "Тип крепления": "Планка",
+      "Минимальный диаметр отверстия в потолке (в мм)": 10.0,
+      "Диаметр потолочной чашки (см)": 15.0,
+      "Габариты (ДхШхВ), см": [
+        58.0,
+        58.0,
+        8.0
+      ],
+      "Высота (см)": 8.0,
+      "Подходит для низкого потолка (до 2,5 м)": true,
+      "Ширина (см)": 58.0,
+      "Длина (см)": 58.0,
+      "Вес, кг": 1.336,
+      "Мощность (Вт)": 52.0,
+      "Диаметр (см)": 58.0,
+      "Световой поток (Лм)": 3400.0,
+      "Цвет освещения": "Изменение оттенков белого",
+      "Температура цвета (в K)": [
+        2700,
+        4200,
+        6500
+      ],
+      "Количество плафонов или абажуров": 3,
+      "Направление плафона или абажура": "Разнонаправленные",
+      "Регулировка направления плафона или абажура": false,
+      "Цвет основания": "Белый",
+      "Цвет плафонов/абажура": "Белый",
+      "Основной материал": "Акрил",
+      "Материал конструкции": "Металл",
+      "Эффект материала основы": "Матовый",
+      "Материал плафонов/абажура": "Акрил",
+      "Стиль": "Шарм",
+      "Декор": false,
+      "Назначение": [
+        "Зал",
+        "Детская комната",
+        "Коридор",
+        "Кухня",
+        "Прихожая",
+        "Офис"
+      ],
+      "Подходит для натяжного потолка": true,
+      "Особенности продукта": false,
+      "Функции": [
+        "Режим ночника",
+        "Управление яркостью освещения"
+      ],
+      "Управление устройством": "Пульт дистанционного управления",
+      "Степень защиты от пыли и воды (IP)": "IP20",
+      "Напряжение (В)": 230,
+      "Срок службы (ч)": 30000.0,
+      "Марка": "RITTER",
+      "Модель продукта": "CHL-52/52W",
+      "Гарантия (лет)": 1,
+      "Страна производства": "Китай",
+      "Состав комплекта": [
+        "Люстра",
+        "Пульт дистанционного управления",
+        "Монтажный комплект",
+        "Элементы питания пульта д/у",
+        "Руководство по эксплуатации"
+      ]
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6203b528a83a9cfed1d30304"
+    },
+    "name": "Люстра потолочная Allegro 3 лампы 9 м² цвет белый/хром",
+    "price": 1483,
+    "url": "https://leroymerlin.ru/product/lyustra-potolochnaya-allegro-3-lampy-9-m-cvet-belyy-hrom-85243513/",
+    "photos": [
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/85243513_tmp.jpg",
+        "path": "leroymerlin/lyustry/Люстра потолочная Allegro 3 лампы 9 м² цвет белый_хром/0.jpg",
+        "checksum": "4e531161f8683fcdddef575a2f333a6d",
+        "status": "downloaded"
+      }
+    ],
+    "properties": {
+      "Максимальная площадь освещения (в м²)": 20.0,
+      "Коллекция для публикации": "Allegro",
+      "Тип крепления": "Планка",
+      "Минимальный диаметр отверстия в потолке (в мм)": 10.0,
+      "Диаметр потолочной чашки (см)": 14.0,
+      "Габариты (ДхШхВ), см": [
+        34.0,
+        30.0,
+        15.0
+      ],
+      "Высота (см)": 15.0,
+      "Подходит для низкого потолка (до 2,5 м)": true,
+      "Ширина (см)": 30.0,
+      "Длина (см)": 34.0,
+      "Диаметр (см)": 34.0,
+      "Вес, кг": 1.245,
+      "Напряжение (В)": "220-240",
+      "Тип цоколя": "E27",
+      "Совместимый тип лампы": [
+        "Люминесцентный",
+        "Накаливания",
+        "Светодиодный (LED)",
+        "Филаментный (LED)"
+      ],
+      "Количество лампочек": 3,
+      "Форма подходящей лампочки": [
+        "Гриб",
+        "Груша",
+        "Свеча",
+        "Шар малый"
+      ],
+      "Максимально допустимая мощность лампы (Вт)": 60,
+      "Количество плафонов или абажуров": 3,
+      "Направление плафона или абажура": "Вниз",
+      "Регулировка направления плафона или абажура": false,
+      "Цвет плафонов/абажура": "Белый",
+      "Основной материал": "Металл",
+      "Материал конструкции": "Металл",
+      "Цвет основания": "Хром",
+      "Эффект материала основы": "Матовый",
+      "Материал плафонов/абажура": "Стекло",
+      "Стиль": "Дизайнерский",
+      "Декор": false,
+      "Назначение": [
+        "Зал",
+        "Детская комната",
+        "Коммерческое помещение",
+        "Коридор",
+        "Кухня",
+        "Офис",
+        "Прихожая",
+        "Спальня"
+      ],
+      "Подходит для натяжного потолка": true,
+      "Особенности продукта": false,
+      "Функции": false,
+      "Управление устройством": "Настенный переключатель",
+      "Степень защиты от пыли и воды (IP)": "IP20",
+      "Гарантия (лет)": 1,
+      "Марка": "REV",
+      "Модель продукта": "Allegro",
+      "Страна производства": "Китай",
+      "Состав комплекта": [
+        "Люстра",
+        "плафоны",
+        "крепежный комплект",
+        "инструкция"
+      ]
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6203b52da83a9cfed1d30309"
+    },
+    "name": "Потолочная люстра светодиодная Natali Kovaltseva INNOVATION STYLE 83042 2700  7000 К",
+    "price": 4499,
+    "url": "https://leroymerlin.ru/product/potolochnaya-lyustra-svetodiodnaya-natali-kovaltseva-innovation-style-83042-2700-7000-k-90088252/",
+    "photos": [
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/90088252.jpg",
+        "path": "leroymerlin/lyustry/Потолочная люстра светодиодная Natali Kovaltseva INNOVATION STYLE 83042 2700  7000 К/0.jpg",
+        "checksum": "322ece249a2e39ed52fdefea68e45022",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/90088252_01.jpg",
+        "path": "leroymerlin/lyustry/Потолочная люстра светодиодная Natali Kovaltseva INNOVATION STYLE 83042 2700  7000 К/1.jpg",
+        "checksum": "799e8b4751c905f04be943b4cf7a5082",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/90088252_02.jpg",
+        "path": "leroymerlin/lyustry/Потолочная люстра светодиодная Natali Kovaltseva INNOVATION STYLE 83042 2700  7000 К/2.jpg",
+        "checksum": "fe9d099048572452fa0f0d7730d0b824",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/90088252_03.jpg",
+        "path": "leroymerlin/lyustry/Потолочная люстра светодиодная Natali Kovaltseva INNOVATION STYLE 83042 2700  7000 К/3.jpg",
+        "checksum": "7f44c834f8e1933b9cd0d49cbb81b229",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/90088252_04.jpg",
+        "path": "leroymerlin/lyustry/Потолочная люстра светодиодная Natali Kovaltseva INNOVATION STYLE 83042 2700  7000 К/4.jpg",
+        "checksum": "d2da654f2b1a63eb507ec86424bf1dd6",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/90088252_05.jpg",
+        "path": "leroymerlin/lyustry/Потолочная люстра светодиодная Natali Kovaltseva INNOVATION STYLE 83042 2700  7000 К/5.jpg",
+        "checksum": "d57dedbc70747ba75afe9baeb21dc143",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/90088252_06.jpg",
+        "path": "leroymerlin/lyustry/Потолочная люстра светодиодная Natali Kovaltseva INNOVATION STYLE 83042 2700  7000 К/6.jpg",
+        "checksum": "280f061f0559d7a8f8b08858cc7cb8cc",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/90088252_07.jpg",
+        "path": "leroymerlin/lyustry/Потолочная люстра светодиодная Natali Kovaltseva INNOVATION STYLE 83042 2700  7000 К/7.jpg",
+        "checksum": "4ae55ea251cd616a79c1b9d9b986d594",
+        "status": "downloaded"
+      }
+    ],
+    "properties": {
+      "Максимальная площадь освещения (в м²)": 25,
+      "Подходит для низкого потолка (до 2,5 м)": true,
+      "Ширина (см)": 60,
+      "Длина (см)": 60,
+      "Вес, кг": 2.5,
+      "Фактическая потребляемая мощность (Вт)": 120,
+      "Цвет освещения": "Изменение оттенков белого",
+      "Направление плафона или абажура": "В стороны",
+      "Цвет основания": "Белый",
+      "Цвет плафонов/абажура": "Белый",
+      "Основной материал": "Металл",
+      "Материал конструкции": "Металл",
+      "Материал плафонов/абажура": "Акрил",
+      "Особенности продукта": "Режим ночника",
+      "Функции": [
+        "Таймер",
+        "Режим ночника",
+        "Управление яркостью освещения",
+        "Смена режимов работы"
+      ],
+      "Управление устройством": "Смартфон",
+      "Степень защиты от пыли и воды (IP)": "IP20",
+      "Напряжение (В)": 54,
+      "Срок службы (ч)": 25000,
+      "Марка": "NATALI KOVALTSEVA",
+      "Модель продукта": "INNOVATION STYLE 83042",
+      "Гарантия (лет)": 4.0,
+      "Страна производства": "Германия"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6203b533a83a9cfed1d3030c"
+    },
+    "name": "Люстра потолочная светодиодная Escada 10248/3LED с пультом, 21 м², регулируемый белый свет, цвет золотой",
+    "price": 4990,
+    "url": "https://leroymerlin.ru/product/lyustra-potolochnaya-svetodiodnaya-escada-10248-3led-s-pultom-86270339/",
+    "photos": [
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/86270339.jpg",
+        "path": "leroymerlin/lyustry/Люстра потолочная светодиодная Escada 10248_3LED с пультом_ 21 м²_ регулируемый белый свет_ цвет золотой/0.jpg",
+        "checksum": "0c8d25f4a05141821325170b1cf25823",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/86270339_01.jpg",
+        "path": "leroymerlin/lyustry/Люстра потолочная светодиодная Escada 10248_3LED с пультом_ 21 м²_ регулируемый белый свет_ цвет золотой/1.jpg",
+        "checksum": "c043ab7fbee9271e053745378809d91e",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/86270339_02.jpg",
+        "path": "leroymerlin/lyustry/Люстра потолочная светодиодная Escada 10248_3LED с пультом_ 21 м²_ регулируемый белый свет_ цвет золотой/2.jpg",
+        "checksum": "34e38fee834cf1ae6080b3618e43d3f2",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/86270339_03.jpg",
+        "path": "leroymerlin/lyustry/Люстра потолочная светодиодная Escada 10248_3LED с пультом_ 21 м²_ регулируемый белый свет_ цвет золотой/3.jpg",
+        "checksum": "ec39b93604e7e7215477f8e134bb0d63",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/86270339_04.jpg",
+        "path": "leroymerlin/lyustry/Люстра потолочная светодиодная Escada 10248_3LED с пультом_ 21 м²_ регулируемый белый свет_ цвет золотой/4.jpg",
+        "checksum": "9c55633daf89e2e504f1a47e6ea4a4fd",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/86270339_05.jpg",
+        "path": "leroymerlin/lyustry/Люстра потолочная светодиодная Escada 10248_3LED с пультом_ 21 м²_ регулируемый белый свет_ цвет золотой/5.jpg",
+        "checksum": "0fc376339844603c5d6a7f8e2fff8e0a",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/86270339_06.jpg",
+        "path": "leroymerlin/lyustry/Люстра потолочная светодиодная Escada 10248_3LED с пультом_ 21 м²_ регулируемый белый свет_ цвет золотой/6.jpg",
+        "checksum": "dd876ee65850914b68155d5205b2acaf",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/86270339_07.jpg",
+        "path": "leroymerlin/lyustry/Люстра потолочная светодиодная Escada 10248_3LED с пультом_ 21 м²_ регулируемый белый свет_ цвет золотой/7.jpg",
+        "checksum": "19a056f168a57586d57b0de73e60fdc2",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/86270339_08.jpg",
+        "path": "leroymerlin/lyustry/Люстра потолочная светодиодная Escada 10248_3LED с пультом_ 21 м²_ регулируемый белый свет_ цвет золотой/8.jpg",
+        "checksum": "dbb50c963233fad5e8380a2a7efc82c1",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/86270339_i.jpg",
+        "path": "leroymerlin/lyustry/Люстра потолочная светодиодная Escada 10248_3LED с пультом_ 21 м²_ регулируемый белый свет_ цвет золотой/9.jpg",
+        "checksum": "c3d4c2e976f653ef27c0f8fd271dab99",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/86270339_drw.jpg",
+        "path": "leroymerlin/lyustry/Люстра потолочная светодиодная Escada 10248_3LED с пультом_ 21 м²_ регулируемый белый свет_ цвет золотой/10.jpg",
+        "checksum": "6965aba74c0d3e987c7e01fdef66244d",
+        "status": "downloaded"
+      }
+    ],
+    "properties": {
+      "Максимальная площадь освещения (в м²)": 21.0,
+      "Коллекция для публикации": "ESCADA",
+      "Тип крепления": "Планка",
+      "Минимальный диаметр отверстия в потолке (в мм)": 10.0,
+      "Диаметр потолочной чашки (см)": 27.0,
+      "Габариты (ДхШхВ), см": [
+        45.0,
+        45.0,
+        8.0
+      ],
+      "Высота (см)": 8.0,
+      "Подходит для низкого потолка (до 2,5 м)": true,
+      "Ширина (см)": 45.0,
+      "Длина (см)": 45.0,
+      "Вес, кг": 1.81,
+      "Мощность (Вт)": 73.0,
+      "Диаметр (см)": 45.0,
+      "Световой поток (Лм)": 5370.0,
+      "Цвет освещения": "Изменение оттенков белого",
+      "Температура цвета (в K)": [
+        3000,
+        6500
+      ],
+      "Количество плафонов или абажуров": 3,
+      "Направление плафона или абажура": "Разнонаправленные",
+      "Регулировка направления плафона или абажура": false,
+      "Цвет основания": "Золотистый",
+      "Цвет плафонов/абажура": false,
+      "Основной материал": "Металл",
+      "Материал конструкции": "Металл",
+      "Эффект материала основы": "Матовый",
+      "Материал плафонов/абажура": false,
+      "Стиль": "Нео-классика",
+      "Декор": false,
+      "Назначение": [
+        "Зал",
+        "Коридор",
+        "Кухня",
+        "Спальня"
+      ],
+      "Подходит для натяжного потолка": false,
+      "Особенности продукта": false,
+      "Функции": [
+        "Режим ночника",
+        "Управление яркостью освещения"
+      ],
+      "Управление устройством": [
+        "Настенный переключатель",
+        "Пульт дистанционного управления"
+      ],
+      "Степень защиты от пыли и воды (IP)": "IP20",
+      "Напряжение (В)": [
+        220,
+        230,
+        240
+      ],
+      "Срок службы (ч)": 50000.0,
+      "Марка": "ESCADA",
+      "Модель продукта": "10248/3LED",
+      "Гарантия (лет)": 1,
+      "Страна производства": "Китай",
+      "Состав комплекта": [
+        "Светильник в разборе",
+        "паспорт на светильник",
+        "комплект крепежа",
+        "пульт"
+      ]
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6203b538a83a9cfed1d30311"
+    },
+    "name": "Люстра потолочная Иветта 535 3 лампы 18 м² цвет чёрный",
+    "price": 1930,
+    "url": "https://leroymerlin.ru/product/lyustra-potolochnaya-ivetta-535-3-lampy-18-m-cvet-chernyy-82372428/",
+    "photos": [
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/82372428.jpg",
+        "path": "leroymerlin/lyustry/Люстра потолочная Иветта 535 3 лампы 18 м² цвет чёрный/0.jpg",
+        "checksum": "86b6092ae43fc4f889e605d19ec74ace",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/82372428_01.jpg",
+        "path": "leroymerlin/lyustry/Люстра потолочная Иветта 535 3 лампы 18 м² цвет чёрный/1.jpg",
+        "checksum": "8bbdc9d75a2707ce6041472077608d09",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/82372428_02.jpg",
+        "path": "leroymerlin/lyustry/Люстра потолочная Иветта 535 3 лампы 18 м² цвет чёрный/2.jpg",
+        "checksum": "1cef57868823281ba45ee4bd4a3344cc",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/82372428_03.jpg",
+        "path": "leroymerlin/lyustry/Люстра потолочная Иветта 535 3 лампы 18 м² цвет чёрный/3.jpg",
+        "checksum": "960d3abbbcdf5417e80d3335186280ee",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/82372428_04.jpg",
+        "path": "leroymerlin/lyustry/Люстра потолочная Иветта 535 3 лампы 18 м² цвет чёрный/4.jpg",
+        "checksum": "c1bbcc16c4bf9a305bc98bf5c8c2405b",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/82372428_05.jpg",
+        "path": "leroymerlin/lyustry/Люстра потолочная Иветта 535 3 лампы 18 м² цвет чёрный/5.jpg",
+        "checksum": "c5755e2310d7a0ec4d1dd4e1e1143aba",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/82372428_06.jpg",
+        "path": "leroymerlin/lyustry/Люстра потолочная Иветта 535 3 лампы 18 м² цвет чёрный/6.jpg",
+        "checksum": "78fdb103bed40d8a4c457b15faf1e2ff",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/82372428_07.jpg",
+        "path": "leroymerlin/lyustry/Люстра потолочная Иветта 535 3 лампы 18 м² цвет чёрный/7.jpg",
+        "checksum": "d62b8279d425e2b018ace5af99dda3d5",
+        "status": "downloaded"
+      }
+    ],
+    "properties": {
+      "Максимальная площадь освещения (в м²)": 10.5,
+      "Коллекция для публикации": "Иветта",
+      "Тип крепления": "Планка",
+      "Диаметр потолочной чашки (см)": 15.0,
+      "Габариты (ДхШхВ), см": [
+        41.0,
+        41.0,
+        24.0
+      ],
+      "Высота (см)": 24.0,
+      "Подходит для низкого потолка (до 2,5 м)": true,
+      "Ширина (см)": 41.0,
+      "Длина (см)": 41.0,
+      "Диаметр (см)": 42.0,
+      "Вес, кг": 2.199,
+      "Напряжение (В)": 220,
+      "Тип цоколя": "E27",
+      "Совместимый тип лампы": "Накаливания",
+      "Количество лампочек": 3,
+      "Форма подходящей лампочки": "Шар",
+      "Максимально допустимая мощность лампы (Вт)": 60,
+      "Количество плафонов или абажуров": 3,
+      "Направление плафона или абажура": "Вниз",
+      "Регулировка направления плафона или абажура": false,
+      "Цвет плафонов/абажура": "Белый",
+      "Основной материал": "Металл",
+      "Материал конструкции": "Металл",
+      "Цвет основания": "Черный",
+      "Эффект материала основы": "Матовый",
+      "Материал плафонов/абажура": "Стекло",
+      "Стиль": "Дизайнерский",
+      "Декор": false,
+      "Назначение": [
+        "Зал",
+        "Коридор",
+        "Кухня",
+        "Прихожая",
+        "Спальня"
+      ],
+      "Подходит для натяжного потолка": true,
+      "Особенности продукта": false,
+      "Функции": false,
+      "Управление устройством": "Настенный переключатель",
+      "Степень защиты от пыли и воды (IP)": "IP20",
+      "Гарантия (лет)": 3,
+      "Марка": "СВЕТУС",
+      "Модель продукта": "Потолочная люстра",
+      "Страна производства": "Россия"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6203b53ca83a9cfed1d30314"
+    },
+    "name": "Люстра потолочная «Mekka» 1257/5C E27X5X40 Вт, цвет хром",
+    "price": 1598,
+    "url": "https://leroymerlin.ru/product/lyustra-potolochnaya-mekka-1257-5c-e27x5x40-vt-81966667/",
+    "photos": [
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/81966667.jpg",
+        "path": "leroymerlin/lyustry/Люстра потолочная _Mekka_ 1257_5C E27X5X40 Вт_ цвет хром/0.jpg",
+        "checksum": "36512d994e94360358703727e68112d4",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/81966667_01.jpg",
+        "path": "leroymerlin/lyustry/Люстра потолочная _Mekka_ 1257_5C E27X5X40 Вт_ цвет хром/1.jpg",
+        "checksum": "5a504d8862f53dcb0496f313d83b27f3",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/81966667_03.jpg",
+        "path": "leroymerlin/lyustry/Люстра потолочная _Mekka_ 1257_5C E27X5X40 Вт_ цвет хром/2.jpg",
+        "checksum": "62cb5cb926b793124ce2de98093f615c",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/81966667_04.jpg",
+        "path": "leroymerlin/lyustry/Люстра потолочная _Mekka_ 1257_5C E27X5X40 Вт_ цвет хром/3.jpg",
+        "checksum": "09eab8d18cab08e0fbd66ca164ed172d",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/81966667_05.jpg",
+        "path": "leroymerlin/lyustry/Люстра потолочная _Mekka_ 1257_5C E27X5X40 Вт_ цвет хром/4.jpg",
+        "checksum": "866e6493dfd53695f42922a566a6a3e9",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/81966667_06.jpg",
+        "path": "leroymerlin/lyustry/Люстра потолочная _Mekka_ 1257_5C E27X5X40 Вт_ цвет хром/5.jpg",
+        "checksum": "57d0afc51eb93c16c45763f57243e33e",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/81966667_07.jpg",
+        "path": "leroymerlin/lyustry/Люстра потолочная _Mekka_ 1257_5C E27X5X40 Вт_ цвет хром/6.jpg",
+        "checksum": "313e7a1cd1f15bab4ad5fcbed63d3b0a",
+        "status": "downloaded"
+      }
+    ],
+    "properties": {
+      "Максимальная площадь освещения (в м²)": 25.0,
+      "Коллекция для публикации": "MEKKA",
+      "Тип крепления": "Планка",
+      "Минимальный диаметр отверстия в потолке (в мм)": 50.0,
+      "Диаметр потолочной чашки (см)": 14.5,
+      "Габариты (ДхШхВ), см": [
+        60.0,
+        60.0,
+        28.0
+      ],
+      "Высота (см)": 28.0,
+      "Подходит для низкого потолка (до 2,5 м)": true,
+      "Ширина (см)": 60.0,
+      "Длина (см)": 60.0,
+      "Диаметр (см)": 60.0,
+      "Вес, кг": 1.872,
+      "Напряжение (В)": 220,
+      "Тип цоколя": "E27",
+      "Совместимый тип лампы": [
+        "Галогенный",
+        "Накаливания",
+        "Светодиодный (LED)"
+      ],
+      "Количество лампочек": 5,
+      "Форма подходящей лампочки": [
+        "Шар",
+        "Свеча",
+        "Груша",
+        "Спираль"
+      ],
+      "Максимально допустимая мощность лампы (Вт)": 40,
+      "Количество плафонов или абажуров": 5,
+      "Направление плафона или абажура": "Разнонаправленные",
+      "Регулировка направления плафона или абажура": false,
+      "Цвет плафонов/абажура": "Белый",
+      "Основной материал": "Металл",
+      "Материал конструкции": "Металл",
+      "Цвет основания": "Белый",
+      "Эффект материала основы": "Перламутровый",
+      "Материал плафонов/абажура": "Стекло",
+      "Стиль": "Дизайнерский",
+      "Декор": "Декоративный",
+      "Назначение": [
+        "Зал",
+        "Спальня",
+        "Прихожая",
+        "Кухня"
+      ],
+      "Подходит для натяжного потолка": true,
+      "Особенности продукта": false,
+      "Функции": false,
+      "Управление устройством": "Настенный переключатель",
+      "Степень защиты от пыли и воды (IP)": "IP20",
+      "Гарантия (лет)": 2,
+      "Марка": "JLIGHT",
+      "Модель продукта": "1257/5C",
+      "Страна производства": "Китай",
+      "Состав комплекта": [
+        "светильник",
+        "инструкция",
+        "упаковка"
+      ]
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6203b541a83a9cfed1d30319"
+    },
+    "name": "Люстра Flora 3xE14x40 Вт, стекло/металл",
+    "price": 906,
+    "url": "https://leroymerlin.ru/product/lyustra-flora-3xe14x40-vt-17269330/",
+    "photos": [
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/17269330.jpg",
+        "path": "leroymerlin/lyustry/Люстра Flora 3xE14x40 Вт_ стекло_металл/0.jpg",
+        "checksum": "1c0e2bef91ed88f8084b51002f678623",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/17269330_01.jpg",
+        "path": "leroymerlin/lyustry/Люстра Flora 3xE14x40 Вт_ стекло_металл/1.jpg",
+        "checksum": "586e55d85738ce9ec017afb3103394c0",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/17269330_02.jpg",
+        "path": "leroymerlin/lyustry/Люстра Flora 3xE14x40 Вт_ стекло_металл/2.jpg",
+        "checksum": "c1b8494da890ee42ffabb7251361753d",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/17269330_03.jpg",
+        "path": "leroymerlin/lyustry/Люстра Flora 3xE14x40 Вт_ стекло_металл/3.jpg",
+        "checksum": "a91b95ba994976077babed2b7ebd35ff",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/17269330_04.jpg",
+        "path": "leroymerlin/lyustry/Люстра Flora 3xE14x40 Вт_ стекло_металл/4.jpg",
+        "checksum": "9236610694a172d1316dc3595786e637",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/17269330_05.jpg",
+        "path": "leroymerlin/lyustry/Люстра Flora 3xE14x40 Вт_ стекло_металл/5.jpg",
+        "checksum": "08cd166d90a35785d86d0f4111c474d5",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/17269330_06.jpg",
+        "path": "leroymerlin/lyustry/Люстра Flora 3xE14x40 Вт_ стекло_металл/6.jpg",
+        "checksum": "7d2a7111fa6d8c50792ff9c6fc251752",
+        "status": "downloaded"
+      }
+    ],
+    "properties": {
+      "Максимальная площадь освещения (в м²)": 15.0,
+      "Коллекция для публикации": "Flora",
+      "Тип крепления": "Планка",
+      "Диаметр потолочной чашки (см)": 15.0,
+      "Габариты (ДхШхВ), см": [
+        44.0,
+        44.0,
+        20.0
+      ],
+      "Высота (см)": 20.0,
+      "Подходит для низкого потолка (до 2,5 м)": true,
+      "Ширина (см)": 44.0,
+      "Длина (см)": 44.0,
+      "Диаметр (см)": 44.0,
+      "Вес, кг": 0.982,
+      "Напряжение (В)": 220,
+      "Тип цоколя": "E14",
+      "Совместимый тип лампы": "Светодиодный (LED)",
+      "Количество лампочек": 3,
+      "Форма подходящей лампочки": "Свеча",
+      "Максимально допустимая мощность лампы (Вт)": 40,
+      "Количество плафонов или абажуров": 3,
+      "Направление плафона или абажура": "Вниз",
+      "Регулировка направления плафона или абажура": false,
+      "Цвет плафонов/абажура": "Белый",
+      "Основной материал": "Металл",
+      "Материал конструкции": "Металл",
+      "Цвет основания": "Белый",
+      "Материал плафонов/абажура": "Стекло",
+      "Стиль": "Нео-классика",
+      "Декор": false,
+      "Назначение": [
+        "Спальня",
+        "Кухня"
+      ],
+      "Подходит для натяжного потолка": true,
+      "Особенности продукта": false,
+      "Функции": false,
+      "Степень защиты от пыли и воды (IP)": "IP20",
+      "Гарантия (лет)": 5,
+      "Марка": "INSPIRE",
+      "Модель продукта": "4932-3C",
+      "Страна производства": "Китай"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6203b544a83a9cfed1d3031c"
+    },
+    "name": "Люстра светодиодная Natali Kovaltseva 100W INNOVATION STYLE 83013, хром",
+    "price": 9299,
+    "url": "https://leroymerlin.ru/product/lyustra-svetodiodnaya-natali-kovaltseva-100w-innovation-style-83013-98293611/",
+    "photos": [
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/98293611.jpg",
+        "path": "leroymerlin/lyustry/Люстра светодиодная Natali Kovaltseva 100W INNOVATION STYLE 83013_ хром/0.jpg",
+        "checksum": "4e02cfe7b48ac8fbae1d1d20114d3f62",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/98293611_01.jpg",
+        "path": "leroymerlin/lyustry/Люстра светодиодная Natali Kovaltseva 100W INNOVATION STYLE 83013_ хром/1.jpg",
+        "checksum": "38696d3e285a90b3e3b8c7cccf62aa08",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/98293611_02.jpg",
+        "path": "leroymerlin/lyustry/Люстра светодиодная Natali Kovaltseva 100W INNOVATION STYLE 83013_ хром/2.jpg",
+        "checksum": "802df48e2856f44e25b168f3ac0755af",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/98293611_03.jpg",
+        "path": "leroymerlin/lyustry/Люстра светодиодная Natali Kovaltseva 100W INNOVATION STYLE 83013_ хром/3.jpg",
+        "checksum": "f8dfdc8081479bcbcea655565f0152d0",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/98293611_04.jpg",
+        "path": "leroymerlin/lyustry/Люстра светодиодная Natali Kovaltseva 100W INNOVATION STYLE 83013_ хром/4.jpg",
+        "checksum": "bd21d38051d2bcd4c4bc6c4ef64b568e",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/98293611_05.jpg",
+        "path": "leroymerlin/lyustry/Люстра светодиодная Natali Kovaltseva 100W INNOVATION STYLE 83013_ хром/5.jpg",
+        "checksum": "5f8f1c75c5481c93e6a5c87a6326593f",
+        "status": "downloaded"
+      }
+    ],
+    "properties": {
+      "Максимальная площадь освещения (в м²)": 18,
+      "Подходит для низкого потолка (до 2,5 м)": true,
+      "Ширина (см)": 50,
+      "Длина (см)": 50,
+      "Вес, кг": 6.2,
+      "Фактическая потребляемая мощность (Вт)": 100,
+      "Температура цвета (в K)": 2700,
+      "Направление плафона или абажура": "В стороны",
+      "Цвет плафонов/абажура": "Хром",
+      "Основной материал": "Металл",
+      "Материал конструкции": "Металл",
+      "Материал плафонов/абажура": "Хрусталь",
+      "Стиль": "Дизайнерский",
+      "Особенности продукта": [
+        "Регулируемый",
+        "Режим ночника"
+      ],
+      "Функции": [
+        "Таймер",
+        "Ночник",
+        "Управление яркостью освещения",
+        "Смена режимов работы"
+      ],
+      "Управление устройством": "Смартфон",
+      "Степень защиты от пыли и воды (IP)": "IP20",
+      "Напряжение (В)": 54,
+      "Срок службы (ч)": 25000,
+      "Марка": "NATALI KOVALTSEVA",
+      "Модель продукта": "INNOVATION STYLE 83013",
+      "Гарантия (лет)": 4.0,
+      "Страна производства": "Германия"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6203b549a83a9cfed1d30320"
+    },
+    "name": "Подвесной светильник Bizen 1xE27x60 Вт, цвет белый",
+    "price": 622,
+    "url": "https://leroymerlin.ru/product/podvesnoy-svetilnik-bizen-1xe27x60-vt-15907297/",
+    "photos": [
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/15907297.jpg",
+        "path": "leroymerlin/lyustry/Подвесной светильник Bizen 1xE27x60 Вт_ цвет белый/0.jpg",
+        "checksum": "33581b3b3246125f00cc65cb6cae73a5",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/15907297_01.jpg",
+        "path": "leroymerlin/lyustry/Подвесной светильник Bizen 1xE27x60 Вт_ цвет белый/1.jpg",
+        "checksum": "c3f9f93a6b40f4d54d74a671fa5dd4d0",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/15907297_02.jpg",
+        "path": "leroymerlin/lyustry/Подвесной светильник Bizen 1xE27x60 Вт_ цвет белый/2.jpg",
+        "checksum": "04b441eb4bdb3e34f1b88b7f67bf318e",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/15907297_03.jpg",
+        "path": "leroymerlin/lyustry/Подвесной светильник Bizen 1xE27x60 Вт_ цвет белый/3.jpg",
+        "checksum": "e0c3828becd650f418fc138a187374a3",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/15907297_04.jpg",
+        "path": "leroymerlin/lyustry/Подвесной светильник Bizen 1xE27x60 Вт_ цвет белый/4.jpg",
+        "checksum": "1d9636da3851f660065fa8e3b61071b6",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/15907297_05.jpg",
+        "path": "leroymerlin/lyustry/Подвесной светильник Bizen 1xE27x60 Вт_ цвет белый/5.jpg",
+        "checksum": "75638bd99496573d339f759ba0ce7355",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/15907297_drw.jpg",
+        "path": "leroymerlin/lyustry/Подвесной светильник Bizen 1xE27x60 Вт_ цвет белый/6.jpg",
+        "checksum": "bda999338fecf1319601d4f5e6361c22",
+        "status": "downloaded"
+      }
+    ],
+    "properties": {
+      "Максимальная площадь освещения (в м²)": 5.0,
+      "Коллекция для публикации": "BIZEN",
+      "Тип крепления": "Планка",
+      "Диаметр потолочной чашки (см)": 9.5,
+      "Габариты (ДхШхВ), см": [
+        27.0,
+        27.0,
+        103.0
+      ],
+      "Высота (см)": 103.0,
+      "Подходит для низкого потолка (до 2,5 м)": false,
+      "Ширина (см)": 27.0,
+      "Длина (см)": 27.0,
+      "Диаметр (см)": 27.0,
+      "Вес, кг": 0.57,
+      "Напряжение (В)": "220-240",
+      "Тип цоколя": "E27",
+      "Количество лампочек": 1,
+      "Форма подходящей лампочки": [
+        "Шар",
+        "Свеча"
+      ],
+      "Максимально допустимая мощность лампы (Вт)": 60,
+      "Количество плафонов или абажуров": 1,
+      "Направление плафона или абажура": "Вниз",
+      "Регулировка направления плафона или абажура": false,
+      "Цвет плафонов/абажура": "Белый",
+      "Основной материал": "Пластик",
+      "Материал конструкции": "Сталь",
+      "Цвет основания": "Белый",
+      "Материал плафонов/абажура": "Пластик",
+      "Стиль": "Нео-классика",
+      "Декор": false,
+      "Назначение": [
+        "Кухня",
+        "Зал",
+        "Спальня"
+      ],
+      "Подходит для натяжного потолка": true,
+      "Особенности продукта": false,
+      "Функции": false,
+      "Степень защиты от пыли и воды (IP)": "IP20",
+      "Гарантия (лет)": 3,
+      "Модель продукта": "5149-1P",
+      "Страна производства": "Китай"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6203b54ea83a9cfed1d30328"
+    },
+    "name": "Люстра потолочная светодиодная Gyro 5525/35C 12 м², регулируемый белый свет, цвет белый",
+    "price": 1788,
+    "url": "https://leroymerlin.ru/product/lyustra-potolochnaya-svetodiodnaya-gyro-5525-35c-12-m-82457973/",
+    "photos": [
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/82457973.jpg",
+        "path": "leroymerlin/lyustry/Люстра потолочная светодиодная Gyro 5525_35C 12 м²_ регулируемый белый свет_ цвет белый/0.jpg",
+        "checksum": "639ce6c523b2fd1f146276b6c74656a9",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/82457973_01.jpg",
+        "path": "leroymerlin/lyustry/Люстра потолочная светодиодная Gyro 5525_35C 12 м²_ регулируемый белый свет_ цвет белый/1.jpg",
+        "checksum": "48599514df66d6c25b907247e92c7502",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/82457973_02.jpg",
+        "path": "leroymerlin/lyustry/Люстра потолочная светодиодная Gyro 5525_35C 12 м²_ регулируемый белый свет_ цвет белый/2.jpg",
+        "checksum": "bc806f91244f6cb15c930ccc7ac9d6e6",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/82457973_03.jpg",
+        "path": "leroymerlin/lyustry/Люстра потолочная светодиодная Gyro 5525_35C 12 м²_ регулируемый белый свет_ цвет белый/3.jpg",
+        "checksum": "614f69ee2b8096d205ae9213eab36073",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/82457973_04.jpg",
+        "path": "leroymerlin/lyustry/Люстра потолочная светодиодная Gyro 5525_35C 12 м²_ регулируемый белый свет_ цвет белый/4.jpg",
+        "checksum": "f29e1986c311b6894206ed7148f9b38c",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/82457973_05.jpg",
+        "path": "leroymerlin/lyustry/Люстра потолочная светодиодная Gyro 5525_35C 12 м²_ регулируемый белый свет_ цвет белый/5.jpg",
+        "checksum": "f02cfd3d49695c03538f0a182b647823",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/82457973_06.jpg",
+        "path": "leroymerlin/lyustry/Люстра потолочная светодиодная Gyro 5525_35C 12 м²_ регулируемый белый свет_ цвет белый/6.jpg",
+        "checksum": "f4860c767831e471ca9533428c18d654",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/82457973_07.jpg",
+        "path": "leroymerlin/lyustry/Люстра потолочная светодиодная Gyro 5525_35C 12 м²_ регулируемый белый свет_ цвет белый/7.jpg",
+        "checksum": "ee87750ee676986a8b6a51c44a435d35",
+        "status": "downloaded"
+      }
+    ],
+    "properties": {
+      "Максимальная площадь освещения (в м²)": 12.0,
+      "Коллекция для публикации": "Gyro",
+      "Тип крепления": "Планка",
+      "Минимальный диаметр отверстия в потолке (в мм)": 100.0,
+      "Диаметр потолочной чашки (см)": 15.0,
+      "Габариты (ДхШхВ), см": [
+        48.0,
+        48.0,
+        9.0
+      ],
+      "Высота (см)": 9.0,
+      "Подходит для низкого потолка (до 2,5 м)": true,
+      "Ширина (см)": 48.0,
+      "Длина (см)": 48.0,
+      "Вес, кг": 1.146,
+      "Мощность (Вт)": 72.0,
+      "Фактическая потребляемая мощность (Вт)": 32.0,
+      "Диаметр (см)": 48.0,
+      "Световой поток (Лм)": 2580.0,
+      "Цвет освещения": "Изменение оттенков белого",
+      "Температура цвета (в K)": [
+        3500,
+        6000
+      ],
+      "Количество плафонов или абажуров": 4,
+      "Направление плафона или абажура": "Вниз",
+      "Регулировка направления плафона или абажура": false,
+      "Цвет основания": "Белый",
+      "Цвет плафонов/абажура": "Белый",
+      "Основной материал": "Металл",
+      "Материал конструкции": "Металл",
+      "Эффект материала основы": "Матовый",
+      "Материал плафонов/абажура": "Металл",
+      "Стиль": "Дизайнерский",
+      "Декор": false,
+      "Назначение": [
+        "Зал",
+        "Спальня",
+        "Прихожая",
+        "Кухня"
+      ],
+      "Подходит для натяжного потолка": true,
+      "Особенности продукта": false,
+      "Функции": false,
+      "Управление устройством": "Настенный переключатель",
+      "Степень защиты от пыли и воды (IP)": "IP20",
+      "Напряжение (В)": 220,
+      "Срок службы (ч)": 43800.0,
+      "Марка": "JLIGHT",
+      "Модель продукта": "5525/35C",
+      "Гарантия (лет)": 1,
+      "Страна производства": "Китай",
+      "Состав комплекта": [
+        "упаковка",
+        "светильник",
+        "паспорт изделия"
+      ]
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6203b553a83a9cfed1d3032d"
+    },
+    "name": "Люстра потолочная светодиодная Ritter Spoleto квадратная с пультом управления, 33,5 м², регулируемый белый свет, цвет белый",
+    "price": 3684,
+    "url": "https://leroymerlin.ru/product/lyustra-potolochnaya-svetodiodnaya-ritter-spoleto-kvadratnaya-s-pultom-upravleniya-82674792/",
+    "photos": [
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/82674792.jpg",
+        "path": "leroymerlin/lyustry/Люстра потолочная светодиодная Ritter Spoleto квадратная с пультом управления_ 33_5 м²_ регулируемый белый свет_ цвет белый/0.jpg",
+        "checksum": "2a249f2e6bbfd492ea55f4e08f69dd09",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/82674792_01.jpg",
+        "path": "leroymerlin/lyustry/Люстра потолочная светодиодная Ritter Spoleto квадратная с пультом управления_ 33_5 м²_ регулируемый белый свет_ цвет белый/1.jpg",
+        "checksum": "32496d5dc2fa78d20c67ef6d7e63f48e",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/82674792_02.jpg",
+        "path": "leroymerlin/lyustry/Люстра потолочная светодиодная Ritter Spoleto квадратная с пультом управления_ 33_5 м²_ регулируемый белый свет_ цвет белый/2.jpg",
+        "checksum": "3f2dbe60908904baee4e35dc844dda2d",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/82674792_03.jpg",
+        "path": "leroymerlin/lyustry/Люстра потолочная светодиодная Ritter Spoleto квадратная с пультом управления_ 33_5 м²_ регулируемый белый свет_ цвет белый/3.jpg",
+        "checksum": "ced837e0fa70b6f8a12ae2001c7893bb",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/82674792_04.jpg",
+        "path": "leroymerlin/lyustry/Люстра потолочная светодиодная Ritter Spoleto квадратная с пультом управления_ 33_5 м²_ регулируемый белый свет_ цвет белый/4.jpg",
+        "checksum": "8fdde47ea86b441b409e5d969fcb4d97",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/82674792_05.jpg",
+        "path": "leroymerlin/lyustry/Люстра потолочная светодиодная Ritter Spoleto квадратная с пультом управления_ 33_5 м²_ регулируемый белый свет_ цвет белый/5.jpg",
+        "checksum": "901db22ffdb3449ecf35ce8e5d6ae6d3",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/82674792_06.jpg",
+        "path": "leroymerlin/lyustry/Люстра потолочная светодиодная Ritter Spoleto квадратная с пультом управления_ 33_5 м²_ регулируемый белый свет_ цвет белый/6.jpg",
+        "checksum": "cb203254e25d0e1191e468c2dbcef8d3",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/82674792_07.jpg",
+        "path": "leroymerlin/lyustry/Люстра потолочная светодиодная Ritter Spoleto квадратная с пультом управления_ 33_5 м²_ регулируемый белый свет_ цвет белый/7.jpg",
+        "checksum": "d5d91860ac4f07d980801607a4ef7c2e",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/82674792_08.jpg",
+        "path": "leroymerlin/lyustry/Люстра потолочная светодиодная Ritter Spoleto квадратная с пультом управления_ 33_5 м²_ регулируемый белый свет_ цвет белый/8.jpg",
+        "checksum": "93012a5a57a6a34267f324182fac0304",
+        "status": "downloaded"
+      }
+    ],
+    "properties": {
+      "Максимальная площадь освещения (в м²)": 33.5,
+      "Коллекция для публикации": "Spoleto",
+      "Тип крепления": "Планка",
+      "Минимальный диаметр отверстия в потолке (в мм)": 0.0,
+      "Диаметр потолочной чашки (см)": 20.0,
+      "Габариты (ДхШхВ), см": [
+        42.0,
+        58.0,
+        11.0
+      ],
+      "Высота (см)": 11.0,
+      "Подходит для низкого потолка (до 2,5 м)": true,
+      "Ширина (см)": 58.0,
+      "Длина (см)": 42.0,
+      "Вес, кг": 1.985,
+      "Мощность (Вт)": 100.0,
+      "Фактическая потребляемая мощность (Вт)": 100.0,
+      "Диаметр (см)": 58.0,
+      "Световой поток (Лм)": 6700.0,
+      "Цвет освещения": "Изменение оттенков белого",
+      "Температура цвета (в K)": [
+        2700,
+        6500
+      ],
+      "Количество плафонов или абажуров": 4,
+      "Направление плафона или абажура": "Вниз",
+      "Регулировка направления плафона или абажура": false,
+      "Цвет основания": "Белый",
+      "Цвет плафонов/абажура": "Белый",
+      "Основной материал": "Акрил",
+      "Материал конструкции": "Металл",
+      "Эффект материала основы": "Матовый",
+      "Материал плафонов/абажура": "Акрил",
+      "Стиль": "Дизайнерский",
+      "Декор": false,
+      "Назначение": "Зал",
+      "Подходит для натяжного потолка": true,
+      "Особенности продукта": false,
+      "Функции": "Управление яркостью освещения",
+      "Управление устройством": "Пульт дистанционного управления",
+      "Степень защиты от пыли и воды (IP)": "IP20",
+      "Напряжение (В)": 230,
+      "Срок службы (ч)": 30000.0,
+      "Марка": "RITTER",
+      "Модель продукта": 520320,
+      "Гарантия (лет)": 1,
+      "Страна производства": "Китай",
+      "Состав комплекта": "Люстра Пульт дистанционного управления Монтажный комплект Руководство по эксплуатации"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6203b55aa83a9cfed1d30330"
+    },
+    "name": "Люстра потолочная светодиодная Escada 10247/3LED с пультом, 15 м², регулируемый белый свет, цвет золотой",
+    "price": 6850,
+    "url": "https://leroymerlin.ru/product/lyustra-potolochnaya-svetodiodnaya-escada-10247-3led-s-pultom-86270344/",
+    "photos": [
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/86270344.jpg",
+        "path": "leroymerlin/lyustry/Люстра потолочная светодиодная Escada 10247_3LED с пультом_ 15 м²_ регулируемый белый свет_ цвет золотой/0.jpg",
+        "checksum": "95b4e6385acb8fecdb34acd8805791de",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/86270344_01.jpg",
+        "path": "leroymerlin/lyustry/Люстра потолочная светодиодная Escada 10247_3LED с пультом_ 15 м²_ регулируемый белый свет_ цвет золотой/1.jpg",
+        "checksum": "7a22c7c9263df9d7a958a30a88433156",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/86270344_03.jpg",
+        "path": "leroymerlin/lyustry/Люстра потолочная светодиодная Escada 10247_3LED с пультом_ 15 м²_ регулируемый белый свет_ цвет золотой/2.jpg",
+        "checksum": "cb1ed7a2476ea74e19b8ea311d017f9e",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/86270344_04.jpg",
+        "path": "leroymerlin/lyustry/Люстра потолочная светодиодная Escada 10247_3LED с пультом_ 15 м²_ регулируемый белый свет_ цвет золотой/3.jpg",
+        "checksum": "ed702728d22737dfa5e09ab8a245c193",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/86270344_05.jpg",
+        "path": "leroymerlin/lyustry/Люстра потолочная светодиодная Escada 10247_3LED с пультом_ 15 м²_ регулируемый белый свет_ цвет золотой/4.jpg",
+        "checksum": "00d3aa9bffd245469b34dd2491510f35",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/86270344_06.jpg",
+        "path": "leroymerlin/lyustry/Люстра потолочная светодиодная Escada 10247_3LED с пультом_ 15 м²_ регулируемый белый свет_ цвет золотой/5.jpg",
+        "checksum": "61d5e3e3d30d93f623df13eaa89259e5",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/86270344_07.jpg",
+        "path": "leroymerlin/lyustry/Люстра потолочная светодиодная Escada 10247_3LED с пультом_ 15 м²_ регулируемый белый свет_ цвет золотой/6.jpg",
+        "checksum": "7d7da02f8767fc21f73d35ea5ccbe566",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/86270344_08.jpg",
+        "path": "leroymerlin/lyustry/Люстра потолочная светодиодная Escada 10247_3LED с пультом_ 15 м²_ регулируемый белый свет_ цвет золотой/7.jpg",
+        "checksum": "97fd6ddbee75d1381a9adc5e68497873",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/86270344_i.jpg",
+        "path": "leroymerlin/lyustry/Люстра потолочная светодиодная Escada 10247_3LED с пультом_ 15 м²_ регулируемый белый свет_ цвет золотой/8.jpg",
+        "checksum": "dc5bbb74f18fc6f269aeaf085836d7b4",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/86270344_drw.jpg",
+        "path": "leroymerlin/lyustry/Люстра потолочная светодиодная Escada 10247_3LED с пультом_ 15 м²_ регулируемый белый свет_ цвет золотой/9.jpg",
+        "checksum": "6979f9173d225c635ff3e6f5c75c6d6f",
+        "status": "downloaded"
+      }
+    ],
+    "properties": {
+      "Максимальная площадь освещения (в м²)": 15.0,
+      "Коллекция для публикации": 10247,
+      "Тип крепления": "Планка",
+      "Минимальный диаметр отверстия в потолке (в мм)": 10.0,
+      "Диаметр потолочной чашки (см)": 22.0,
+      "Габариты (ДхШхВ), см": [
+        56.0,
+        50.0,
+        7.0
+      ],
+      "Высота (см)": 7.0,
+      "Подходит для низкого потолка (до 2,5 м)": true,
+      "Ширина (см)": 50.0,
+      "Длина (см)": 56.0,
+      "Вес, кг": 2.315,
+      "Мощность (Вт)": 85.0,
+      "Диаметр (см)": 50.0,
+      "Световой поток (Лм)": 3798.0,
+      "Цвет освещения": "Изменение оттенков белого",
+      "Температура цвета (в K)": [
+        3000,
+        6500
+      ],
+      "Количество плафонов или абажуров": 3,
+      "Направление плафона или абажура": "Разнонаправленные",
+      "Регулировка направления плафона или абажура": false,
+      "Цвет основания": "Золотистый",
+      "Цвет плафонов/абажура": false,
+      "Основной материал": "Металл",
+      "Материал конструкции": "Металл",
+      "Эффект материала основы": "Матовый",
+      "Материал плафонов/абажура": false,
+      "Стиль": "Нео-классика",
+      "Декор": false,
+      "Назначение": [
+        "Зал",
+        "Коридор",
+        "Кухня",
+        "Спальня"
+      ],
+      "Подходит для натяжного потолка": false,
+      "Особенности продукта": false,
+      "Функции": [
+        "Режим ночника",
+        "Управление яркостью освещения"
+      ],
+      "Управление устройством": [
+        "Настенный переключатель",
+        "Пульт дистанционного управления"
+      ],
+      "Степень защиты от пыли и воды (IP)": "IP20",
+      "Напряжение (В)": [
+        220,
+        230,
+        240
+      ],
+      "Срок службы (ч)": 50000.0,
+      "Марка": "ESCADA",
+      "Модель продукта": "10247/3LED",
+      "Гарантия (лет)": 1,
+      "Страна производства": "Китай",
+      "Состав комплекта": [
+        "Светильник в разборе",
+        "паспорт на светильник",
+        "комплект крепежа",
+        "пульт"
+      ]
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6203b560a83a9cfed1d30335"
+    },
+    "name": "Люстра потолочная Жанр 3xE27x60 Вт 9 м² цвет хром",
+    "price": 1158,
+    "url": "https://leroymerlin.ru/product/lyustra-potolochnaya-zhanr-3xe27x60-vt-9-m-cvet-hrom-82055309/",
+    "photos": [
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/82055309.jpg",
+        "path": "leroymerlin/lyustry/Люстра потолочная Жанр 3xE27x60 Вт 9 м² цвет хром/0.jpg",
+        "checksum": "4b137641bb875c92449661cfb7213337",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/82055309_01.jpg",
+        "path": "leroymerlin/lyustry/Люстра потолочная Жанр 3xE27x60 Вт 9 м² цвет хром/1.jpg",
+        "checksum": "aa723e049265ebe05289a0825e1b0c1c",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/82055309_02.jpg",
+        "path": "leroymerlin/lyustry/Люстра потолочная Жанр 3xE27x60 Вт 9 м² цвет хром/2.jpg",
+        "checksum": "c40fbcac1e272b9591329c954d84713d",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/82055309_03.jpg",
+        "path": "leroymerlin/lyustry/Люстра потолочная Жанр 3xE27x60 Вт 9 м² цвет хром/3.jpg",
+        "checksum": "a8edfd78dc90788e30254961b9867e47",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/82055309_04.jpg",
+        "path": "leroymerlin/lyustry/Люстра потолочная Жанр 3xE27x60 Вт 9 м² цвет хром/4.jpg",
+        "checksum": "8586da7d6e2aeef1bc4a391e2e8edcfb",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/82055309_05.jpg",
+        "path": "leroymerlin/lyustry/Люстра потолочная Жанр 3xE27x60 Вт 9 м² цвет хром/5.jpg",
+        "checksum": "1e463b7bc6c69a691233a93dd8fae0e1",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/82055309_i.jpg",
+        "path": "leroymerlin/lyustry/Люстра потолочная Жанр 3xE27x60 Вт 9 м² цвет хром/6.jpg",
+        "checksum": "d1577dc941c547d8d3a58d8278790e4d",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/82055309_drw.jpg",
+        "path": "leroymerlin/lyustry/Люстра потолочная Жанр 3xE27x60 Вт 9 м² цвет хром/7.jpg",
+        "checksum": "9cba910357dd20b6352ea95a0441dc29",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/82055309_drw_01.jpg",
+        "path": "leroymerlin/lyustry/Люстра потолочная Жанр 3xE27x60 Вт 9 м² цвет хром/8.jpg",
+        "checksum": "136a9749db622990d6175a662ace6af8",
+        "status": "downloaded"
+      }
+    ],
+    "properties": {
+      "Максимальная площадь освещения (в м²)": 15.0,
+      "Коллекция для публикации": "Жанр",
+      "Тип крепления": "Планка",
+      "Минимальный диаметр отверстия в потолке (в мм)": 10.0,
+      "Диаметр потолочной чашки (см)": 14.5,
+      "Габариты (ДхШхВ), см": [
+        60.0,
+        60.0,
+        17.0
+      ],
+      "Высота (см)": 17.0,
+      "Подходит для низкого потолка (до 2,5 м)": true,
+      "Ширина (см)": 60.0,
+      "Длина (см)": 60.0,
+      "Диаметр (см)": 60.0,
+      "Вес, кг": 0.62,
+      "Напряжение (В)": 220,
+      "Тип цоколя": "E27",
+      "Совместимый тип лампы": "Светодиодный (LED)",
+      "Количество лампочек": 3,
+      "Форма подходящей лампочки": [
+        "Шар",
+        "Свеча"
+      ],
+      "Максимально допустимая мощность лампы (Вт)": 60,
+      "Количество плафонов или абажуров": 3,
+      "Направление плафона или абажура": "Вниз",
+      "Регулировка направления плафона или абажура": false,
+      "Цвет плафонов/абажура": "Белый",
+      "Основной материал": "Металл",
+      "Материал конструкции": "Металл",
+      "Цвет основания": "Белый",
+      "Эффект материала основы": "Глянцевый",
+      "Материал плафонов/абажура": "Пластик",
+      "Стиль": "Нео-классика",
+      "Декор": false,
+      "Назначение": [
+        "Спальня",
+        "Кухня"
+      ],
+      "Подходит для натяжного потолка": true,
+      "Особенности продукта": false,
+      "Функции": false,
+      "Управление устройством": "Настенный переключатель",
+      "Степень защиты от пыли и воды (IP)": "IP20",
+      "Гарантия (лет)": 0.5,
+      "Марка": "КЛЮЧНИК",
+      "Модель продукта": false,
+      "Страна производства": "Китай",
+      "Состав комплекта": [
+        "Плафоны",
+        "потолочная чаша",
+        "рожки",
+        "инструкция"
+      ]
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6203b564a83a9cfed1d30338"
+    },
+    "name": "Потолочная люстра светодиодная Natali Kovaltseva INNOVATION STYLE 83045 От 2700 до 7000 К",
+    "price": 4649,
+    "url": "https://leroymerlin.ru/product/potolochnaya-lyustra-svetodiodnaya-natali-kovaltseva-innovation-style-83045-ot-2700-do-7000-k-90085652/",
+    "photos": [
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/90085652.jpg",
+        "path": "leroymerlin/lyustry/Потолочная люстра светодиодная Natali Kovaltseva INNOVATION STYLE 83045 От 2700 до 7000 К/0.jpg",
+        "checksum": "116d9fa6fed76343aef1dbc1f0bf436b",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/90085652_01.jpg",
+        "path": "leroymerlin/lyustry/Потолочная люстра светодиодная Natali Kovaltseva INNOVATION STYLE 83045 От 2700 до 7000 К/1.jpg",
+        "checksum": "f256bf4e3ed6db496a98545ef64d31c6",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/90085652_02.jpg",
+        "path": "leroymerlin/lyustry/Потолочная люстра светодиодная Natali Kovaltseva INNOVATION STYLE 83045 От 2700 до 7000 К/2.jpg",
+        "checksum": "796ab84ba126cecca0c79be060a71bf4",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/90085652_03.jpg",
+        "path": "leroymerlin/lyustry/Потолочная люстра светодиодная Natali Kovaltseva INNOVATION STYLE 83045 От 2700 до 7000 К/3.jpg",
+        "checksum": "fca3b95e02e72d2aca4de4aa9bfbfade",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/90085652_04.jpg",
+        "path": "leroymerlin/lyustry/Потолочная люстра светодиодная Natali Kovaltseva INNOVATION STYLE 83045 От 2700 до 7000 К/4.jpg",
+        "checksum": "5ced90be1ba8f8159afc6e832c3c7557",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/90085652_05.jpg",
+        "path": "leroymerlin/lyustry/Потолочная люстра светодиодная Natali Kovaltseva INNOVATION STYLE 83045 От 2700 до 7000 К/5.jpg",
+        "checksum": "6d0ff0548a38eb334abae700f20b3209",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/90085652_06.jpg",
+        "path": "leroymerlin/lyustry/Потолочная люстра светодиодная Natali Kovaltseva INNOVATION STYLE 83045 От 2700 до 7000 К/6.jpg",
+        "checksum": "714b97eae68e7f00f8b3c7b7dfbe0b98",
+        "status": "downloaded"
+      }
+    ],
+    "properties": {
+      "Максимальная площадь освещения (в м²)": 25,
+      "Подходит для низкого потолка (до 2,5 м)": true,
+      "Ширина (см)": 50,
+      "Длина (см)": 50,
+      "Вес, кг": 2.5,
+      "Фактическая потребляемая мощность (Вт)": 120,
+      "Цвет освещения": "Изменение оттенков белого",
+      "Направление плафона или абажура": "В стороны",
+      "Цвет основания": "Белый",
+      "Цвет плафонов/абажура": "Белый",
+      "Основной материал": "Металл",
+      "Материал конструкции": "Металл",
+      "Материал плафонов/абажура": "Акрил",
+      "Особенности продукта": "Режим ночника",
+      "Функции": [
+        "Таймер",
+        "Режим ночника",
+        "Управление яркостью освещения",
+        "Смена режимов работы"
+      ],
+      "Управление устройством": "Смартфон",
+      "Степень защиты от пыли и воды (IP)": "IP20",
+      "Напряжение (В)": 54,
+      "Марка": "NATALI KOVALTSEVA",
+      "Модель продукта": "INNOVATION STYLE 83045",
+      "Гарантия (лет)": 4.0,
+      "Страна производства": "Германия"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6203b569a83a9cfed1d3033d"
+    },
+    "name": "Люстра потолочная Иветта 536 4 лампы 23 м² цвет белый",
+    "price": 2200,
+    "url": "https://leroymerlin.ru/product/lyustra-potolochnaya-ivetta-536-4-lampy-23-m-cvet-belyy-82372431/",
+    "photos": [
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/82372431.jpg",
+        "path": "leroymerlin/lyustry/Люстра потолочная Иветта 536 4 лампы 23 м² цвет белый/0.jpg",
+        "checksum": "d5e06372c084dbf0ca9b1391cc738740",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/82372431_01.jpg",
+        "path": "leroymerlin/lyustry/Люстра потолочная Иветта 536 4 лампы 23 м² цвет белый/1.jpg",
+        "checksum": "bfa5e5bd9663761ff11643cdaf8c3079",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/82372431_02.jpg",
+        "path": "leroymerlin/lyustry/Люстра потолочная Иветта 536 4 лампы 23 м² цвет белый/2.jpg",
+        "checksum": "cbcd8a111b701744d627e01ed4895f08",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/82372431_03.jpg",
+        "path": "leroymerlin/lyustry/Люстра потолочная Иветта 536 4 лампы 23 м² цвет белый/3.jpg",
+        "checksum": "a20d6c3f347a30135c905076f1534f2d",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/82372431_04.jpg",
+        "path": "leroymerlin/lyustry/Люстра потолочная Иветта 536 4 лампы 23 м² цвет белый/4.jpg",
+        "checksum": "f11ed8dd7f0b7cded357f90c2c8a0c7c",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/82372431_05.jpg",
+        "path": "leroymerlin/lyustry/Люстра потолочная Иветта 536 4 лампы 23 м² цвет белый/5.jpg",
+        "checksum": "98168786ec3e5bbd1f1a1c8ebbe81187",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/82372431_06.jpg",
+        "path": "leroymerlin/lyustry/Люстра потолочная Иветта 536 4 лампы 23 м² цвет белый/6.jpg",
+        "checksum": "814f49508ff0af64c22ec7856280ff20",
+        "status": "downloaded"
+      }
+    ],
+    "properties": {
+      "Максимальная площадь освещения (в м²)": 14.0,
+      "Коллекция для публикации": "Иветта",
+      "Тип крепления": "Планка",
+      "Диаметр потолочной чашки (см)": 15.0,
+      "Габариты (ДхШхВ), см": [
+        49.0,
+        49.0,
+        24.0
+      ],
+      "Высота (см)": 24.0,
+      "Подходит для низкого потолка (до 2,5 м)": true,
+      "Ширина (см)": 49.0,
+      "Длина (см)": 49.0,
+      "Вес, кг": 2.687,
+      "Напряжение (В)": 220,
+      "Тип цоколя": "E27",
+      "Совместимый тип лампы": "Накаливания",
+      "Количество лампочек": 4,
+      "Форма подходящей лампочки": "Шар",
+      "Максимально допустимая мощность лампы (Вт)": 60,
+      "Количество плафонов или абажуров": 4,
+      "Направление плафона или абажура": "Вниз",
+      "Регулировка направления плафона или абажура": false,
+      "Цвет плафонов/абажура": "Белый",
+      "Основной материал": "Металл",
+      "Материал конструкции": "Металл",
+      "Цвет основания": "Белый",
+      "Эффект материала основы": "Матовый",
+      "Материал плафонов/абажура": "Стекло",
+      "Стиль": "Дизайнерский",
+      "Декор": false,
+      "Назначение": [
+        "Зал",
+        "Коридор",
+        "Кухня",
+        "Прихожая",
+        "Спальня"
+      ],
+      "Подходит для натяжного потолка": true,
+      "Особенности продукта": false,
+      "Функции": false,
+      "Управление устройством": "Настенный переключатель",
+      "Степень защиты от пыли и воды (IP)": "IP20",
+      "Гарантия (лет)": 3,
+      "Марка": "СВЕТУС",
+      "Модель продукта": "Потолочная люстра",
+      "Страна производства": "Россия"
+    }
+  }
+]
